@@ -1,3 +1,16 @@
+#!/usr/bin/env python
+# -*-coding:utf-8 -*-
+'''
+@File    :   yahoo_symbols.py
+@Time    :   2022/08/18 20:28:24
+@Author  :   Volker Lorrmann
+@Version :   0.1
+@Contact :   volker.lorrmann@gmail.com
+@License :   (C)Copyright 2020-2022, Volker Lorrmann
+@Desc    :   None
+'''
+
+
 import pandas as pd
 from string import ascii_lowercase, digits
 from itertools import product
@@ -21,13 +34,10 @@ class YahooSymbols:
         params = [
             dict(
                 formatted="false",
-                # lang="en-US",
-                # region="US",
                 query=query_,
                 type=type_,
                 count=10000,
                 start=0,
-                # corsDomain="finance.yahoo.com",
             )
             for query_ in query
         ]

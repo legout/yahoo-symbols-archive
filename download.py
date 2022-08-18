@@ -1,4 +1,15 @@
-#%%
+#!/usr/bin/env python
+# -*-coding:utf-8 -*-
+'''
+@File    :   download.py
+@Time    :   2022/08/18 20:28:38
+@Author  :   Volker Lorrmann
+@Version :   0.1
+@Contact :   volker.lorrmann@gmail.com
+@License :   (C)Copyright 2020-2022, Volker Lorrmann
+@Desc    :   None
+'''
+
 import typer
 from yahoo_symbols.yahoo_symbols import YahooSymbols
 import asyncio
@@ -9,7 +20,6 @@ import json
 from pathlib import Path
 import sqlite3
 
-#%%
 
 app = typer.Typer()
 
@@ -108,6 +118,5 @@ def main(
     save(results=results, path=output, as_=as_)
 
 
-#%%
 if __name__ == "__main__":
     app()

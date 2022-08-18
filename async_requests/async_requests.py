@@ -1,3 +1,16 @@
+#!/usr/bin/env python
+# -*-coding:utf-8 -*-
+'''
+@File    :   async_requests.py
+@Time    :   2022/08/18 20:29:03
+@Author  :   Volker Lorrmann
+@Version :   0.1
+@Contact :   volker.lorrmann@gmail.com
+@License :   (C)Copyright 2020-2022, Volker Lorrmann
+@Desc    :   None
+'''
+
+
 import asyncio
 import aiohttp
 import backoff
