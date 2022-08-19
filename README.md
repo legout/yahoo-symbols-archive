@@ -11,11 +11,16 @@ Clone this repository or download the zip archive.
 git clone https://github.com/legout/yahoo-symbols.git
 ```
 
-## Usage Example
-
+Install requirements
 ```
 cd yahoo-symbols
 
+pip install -r requirements.txt
+```
+
+## Usage Example
+
+```
 python download.py --max-query-length=3 --type=equity,etf --output=./database --output-type=csv
 ``` 
 
