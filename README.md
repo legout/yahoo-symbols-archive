@@ -65,8 +65,8 @@ Options:
 *depends on your internet connectivity, and the options `--limits-per-host` and `--semaphore`
 
 ### Best practice
-You´ll get the best results (most unique symbols) from the symbol downloads if you run this script seperatly for each type (equity, etf,...).
-The option `--max-query-length` should be `2`or `3`. 
+ - You´ll get the best results (most unique symbols) from the symbol downloads if you run this script seperatly for each type (equity, etf,...).
+ - The option `--max-query-length` should be `2`or `3`. 
 
 ### Use of a random proxy server.
 
