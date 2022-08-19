@@ -14,6 +14,8 @@
 from .utils import get_user_agents, get_webshare_proxy_list, get_free_proxy_list
 
 USER_AGENTS = get_user_agents()
+
+# Place your proxy list url from webshare.io here
 URL_WEBSHARE_PROXY_LIST = None
 
 if URL_WEBSHARE_PROXY_LIST is not None:
@@ -21,3 +23,6 @@ if URL_WEBSHARE_PROXY_LIST is not None:
     
 else:
     PROXIES = get_free_proxy_list()
+
+# Add your list of proxies manually here
+# PROXIES = ["http://my-own-proxy-1.abc:1234", "http://my-own-pwoxy-2.cdf:9876"]

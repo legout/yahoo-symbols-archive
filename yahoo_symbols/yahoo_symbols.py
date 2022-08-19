@@ -54,7 +54,7 @@ class YahooSymbols:
         
         letters = list(ascii_lowercase)
         numbers = list(digits)
-        samples = letters + numbers
+        samples = letters + numbers + [".","-"]
 
         queries = [
             "".join(q) for q in list(product(*[samples for n in range(query_length)]))

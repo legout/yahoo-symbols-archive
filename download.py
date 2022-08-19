@@ -38,7 +38,7 @@ def save(results: pd.DataFrame, path: str, as_="parquet"):
             create_dir=True,
         )
 
-    elif as_ == "csv":
+    elif as_ == "csv" or as_=="text":
         for type_ in results["type"].unique():
             results_ = results.query(f"type=='{type_}'")
             for exchange in results_["exchange"].unique():
@@ -47,17 +47,17 @@ def save(results: pd.DataFrame, path: str, as_="parquet"):
                     path + f"/{type_}/{exchange}/symbols.csv", index=False
                 )
 
-    elif as_ == "sqlite":
+    elif as_ == "sqlite" or as_=="sqlite3" or as_=="sql":
         con = sqlite3.connect(path + "/symbols.sqlite")
         results.to_sql("symbols", if_exists="replace", index=False, con=con)
         con.close()
 
 
 def download(
-    max_query_length: int = 1,
+    max_query_length: int = 2,
     types: str = "equity",
     limits_per_host: int = 50,
-    semaphore: int = 20,
+    semaphore: int = 25,
     use_random_proxy: bool = False,
     verbose: bool = True,
 ):
@@ -96,14 +96,14 @@ def download(
 
 @app.command()
 def main(
-    max_query_length: int = 1,
+    max_query_length: int = 2,
     types: str = "equity",
     limits_per_host: int = 50,
-    semaphore: int = 20,
+    semaphore: int = 25,
     use_random_proxy: bool = False,
     verbose: bool = True,
     output: str = "./db",
-    as_: str = "parquet",
+    output_type: str = "parquet",
 ):
 
     results = download(
@@ -115,7 +115,7 @@ def main(
         verbose=verbose,
     )
 
-    save(results=results, path=output, as_=as_)
+    save(results=results, path=output, as_=output_type)
 
 
 if __name__ == "__main__":
