@@ -123,16 +123,16 @@ def download(
     ).drop_duplicates(subset=["symbol", "exchange"])[
         ["symbol", "name", "exchange", "type", "industry"]
     ]
+    if validate:
+        validation = validate_(
+            results["symbol"].tolist(),
+            max_symbols=750,
+            limits_per_host=10,
+            semaphore=5,
+            verbose=verbose,
+        ).reset_index()
 
-    validation = validate_(
-        results["symbol"].tolist(),
-        max_symbols=900,
-        limits_per_host=10,
-        semaphore=5,
-        verbose=verbose,
-    ).reset_index()
-
-    results = results.merge(validation, on=["symbol"])
+        results = results.merge(validation, on=["symbol"])
 
     return results
 
