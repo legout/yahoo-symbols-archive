@@ -221,7 +221,7 @@ class AsyncRequests:
     def run_requests(self, *args, **kwargs):
         """Executes asyncronous requests."""
 
-        return asyncio.run(self.request(*args, **kwargs))
+        return asyncio.run(self.requests(*args, **kwargs))
 
 
 async def async_requests(
@@ -336,7 +336,7 @@ def requests(
         limits_per_host=limits_per_host,
         use_random_proxy=use_random_proxy,
     )
-    return ar.requests(
+    return ar.run_requests(
         url=url,
         params=params,
         data=data,

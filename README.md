@@ -30,26 +30,25 @@ python download.py --max-query-length=3 --type=equity,etf --output=./database --
 Usage: download.py [OPTIONS]
 
 Options:
-  --max-query-length INTEGER      The maximum length of combinations to search for. 
-                                  Higher numbers may result in more results at cost of longer download times.
-                                  [default: 2]
-  --types TEXT                    Can be anyone or a combination of `equity, mutualfund, etf, index, future, currency, cryptocurrency`
-                                  [default: equity]
-  --limits-per-host INTEGER       Is used to limit the number of parallel requests. Should be a value between 10 and 100.
-                                  [default: 50]
-  --semaphore INTEGER             Is used to limit the number of parallel requests.  Should be between smaller than `limits-per-host`.
-                                  [default: 25]
+  --max-combination-length INTEGER The maximum length of combinations to search for. 
+                                   Higher numbers may result in more results at cost of longer download times.
+                                   [default: 2]
+  --types TEXT                     Can be anyone or a combination of `equity, mutualfund, etf, index, future, currency, cryptocurrency`
+                                   [default: equity]
+  --limits-per-host INTEGER        Is used to limit the number of parallel requests. Should be a value between 10 and 100.
+                                   [default: 50]
+  --semaphore INTEGER              Is used to limit the number of parallel requests.  Should be between smaller than `limits-per-host`.
+                                   [default: 25]
   --use-random-proxy / --no-use-random-proxy
-                                  Use this flag to use a random proxy for each request. Currently a list of free proxies is used. 
-                                  In most cases these proxies aren´t relaible. You can provide a list of your own proxies in `async_requests/config.py`.
-                                  [default: no-use-random-proxy]
-  --verbose / --no-verbose        Wheter to show a progressbar or not. [default: verbose]
-  --output TEXT                   The output path where the downloaded symbols are saved to. [default: ./db]
-  --output-type TEXT              Defines the output type. Options are `parquet`, `csv` or `sqlite3`. [default: parquet]
-  --help                          Show this message and exit.
+                                   Use this flag to use a random proxy for each request. Currently a list of free proxies is used. 
+                                   In most cases these proxies aren´t relaible. You can provide a list of your own proxies in `async_requests/config.py`.
+                                   [default: no-use-random-proxy]
+  --verbose / --no-verbose         Wheter to show a progressbar or not. [default: verbose]
+  -validate /--no-validate         Run a finally validation of the downloaded symbols. [default: validate]
+  --output TEXT                    The output path where the downloaded symbols are saved to. [default: ./db]
+  --output-type TEXT               Defines the output type. Options are `parquet`, `csv` or `sqlite3`. [default: parquet]
+  --help                           Show this message and exit.
 ```
-
-
 
 
 <hr>
