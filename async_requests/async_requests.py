@@ -98,10 +98,10 @@ class AsyncRequests:
             headers=headers,
             proxy=proxy,
         ) as response:
-            if response.status >= 400:
-                raise aiohttp.ClientError(response.status)
-            elif response.status >= 500:
-                raise aiohttp.ServerConnectionError(response.status)
+            # if response.status >= 400:
+            #     raise aiohttp.ClientError(response.status)
+            # elif response.status >= 500:
+            #     raise aiohttp.ServerConnectionError(response.status)
             if return_type == "json":
                 result = await response.json(content_type=None)
 
