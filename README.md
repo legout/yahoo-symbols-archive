@@ -51,33 +51,33 @@ The benchmarks of this script for one asset type are (tested for type `equity`):
 | estimated download duration* | ~ 3s | ~1min | ~10min | ~3h     |
 
 
-### Best practice
+## Best practice
  - You´ll get the best results (most unique symbols) from the symbol downloads if you run this script seperatly for each type (equity, etf,...).
  - The option `--max-query-length` should be `2`or `3`. 
 
-### Use of a random proxy server.
+## Use of a random proxy server.
 
 **Note**
 This script should work fine without using random proxies.
 
 When using the  option `--use-random-proxy`  free proxies* are used. In my experience, these proxies are not reliable, but maybe you are lucky.
 
-#### Webshare.io proxies
+### Webshare.io proxies
 I am using proxies from [webshare.io](https://www.webshare.io/). I am very happy with their service and the pricing. If you wanna use their service too, sign up (use the [this link](https://www.webshare.io/?referral_code=upb7xtsy39kl) if you wanna support my work) and choose a plan that fits your needs. In the next step, go to Dashboard -> Proxy -> List -> Download and copy the download link. Set this download link as an environment variable `WEBSHARE_PROXIES_URL`  before running the download script. 
 
-**Linux Shell**
+**Export WEBSHARE_PROXIES_URL in your linux shell**
 ```
 $ export WEBSHARE_PROXIES_URL=WEBSHARE_PROXIES_URL="https://proxy.webshare.io/api/v2/proxy/list/download/abcdefg1234567/-/any/username/direct/-/"
 ```
 
 You can also set this environment variable permanently in an `.env` file (see the `.env-exmaple`) in your home folder or current folder or in your command line config file (e.g. `~/.bashrc`).
 
-**.env-example**
+**Write WEBSHARE_PROXIES_URL into .env**
 ```
 WEBSHARE_PROXIES_URL="https://proxy.webshare.io/api/v2/proxy/list/download/abcdefg1234567/-/any/username/direct/-/"
 ```
 
-**~/.bashrc**
+**Write WEBSHARE_PROXIES_URL into your shell config file (e.g. ~/.bashrc)**
 ```
 $ echo 'export WEBSHARE_PROXIES_URL=WEBSHARE_PROXIES_URL="https://proxy.webshare.io/api/v2/proxy/list/download/abcdefg1234567/-/any/username/direct/-/"' >> ~/.bashrc
 ```
