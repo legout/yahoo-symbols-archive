@@ -57,8 +57,7 @@ The benchmarks of this script for one asset type are (tested for type `equity`):
 
 ## Use of a random proxy server.
 
-**Note**
-This script should work fine without using random proxies.
+**Note** This script should work fine without using random proxies.
 
 When using the  option `--use-random-proxy`  free proxies* are used. In my experience, these proxies are not reliable, but maybe you are lucky.
 
