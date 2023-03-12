@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "yahoo-symbols"
+version = "0.1.0"
+description = "Downloads (nearly) every symbol available on finance.yahoo"
+authors = ["legout <ligno.blades@gmail.com>"]
+readme = "README.md"
+packages = [{ include = "yahoo_symbols" }]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+pandas = "^1.5.3"
+parallel-requests = { git = "https://github.com/legout/parallel-requests" }
+yfin = { git = "https://github.com/legout/yfin" }
+typer = "^0.7.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
