@@ -10,19 +10,19 @@
 @Desc    :   None
 """
 
-import typer
-from yfin.symbols import lookup_search, validate
-from loguru import logger
+import datetime as dt
+import sqlite3
 import typing
-import asyncio
+from itertools import product
+from pathlib import Path
+from string import ascii_lowercase, digits
+
 import pandas as pd
 import pyarrow as pa
 import pyarrow.dataset as ds
-from pathlib import Path
-import sqlite3
-from itertools import product
-from string import ascii_lowercase, digits
-
+import typer
+from loguru import logger
+from yfin.symbols import lookup_search, validate
 
 app = typer.Typer()
 
@@ -49,6 +49,10 @@ def save(
             partitioning=["type"],
             format=as_,
             create_dir=True,
+            existing_data_behavior="overwrite_or_ignore",
+            basename_template="data_{}_part-{{i}}.{}".format(
+                dt.datetime.now().date(), as_
+            ),
         )
 
     elif as_ == "sqlite" or as_ == "sqlite3" or as_ == "sql":
@@ -83,20 +87,7 @@ def _get_lookup(
         )
 
     lres = lookup_search(query=lookup_query, type_=type_, *args, **kwargs)
-    if lres.shape[0] > 0:
-        renames = {
-            k: v
-            for k, v in {
-                "shortName": "name",
-                "quoteType": "type",
-                "industryName": "industry",
-            }.items()
-            if k in lres.columns
-        }
 
-        lres = lres.rename(renames, axis=1).drop_duplicates(
-            subset=["symbol", "exchange"]
-        )
     logger.success(
         f"Found {len(lres)} symbols for queries from '{lookup_query[0]} to '{lookup_query[-1]}'"
     )
@@ -148,21 +139,22 @@ def download(
         res_ = _get_lookup(
             lookup_query=_queries,
             type_=type_,
-            with_random_proxy=random_proxy,
+            random_proxy=random_proxy,
             verbose=verbose,
         )
-        if res.shape[0] > 0:
+        if res_.shape[0] > 0:
             if validation:
-                logger.info("Validation of {len(lres)} symbols.")
+                logger.info(f"Validation of {len(res_)} symbols.")
                 val_res = validate(
                     res_["symbol"].tolist(),
                     max_symbols=750,
                     verbose=verbose,
-                ).reset_index()
+                ).reset_index(drop=True)
 
                 res_ = res_.merge(val_res, on=["symbol"])
 
             res = pd.concat([res, res_]).drop_duplicates()
+
             if remove_empty_names:
                 res = res[~res["name"].isna()]
 
@@ -198,6 +190,8 @@ def main(
         output (str, optional): storage path. Defaults to "./db".
         output_type (str, optional): storage type. Defaults to "parquet".
     """
+    if isinstance(types, str):
+        types = [types]
 
     for type_ in types:
 
