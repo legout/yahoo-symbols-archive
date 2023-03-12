@@ -408,7 +408,7 @@ tqdm = "^4.65.0"
 type = "git"
 url = "https://github.com/legout/parallel-requests"
 reference = "HEAD"
-resolved_reference = "216ab518d6404108ac1f0c479f31ee1db4642a5f"
+resolved_reference = "9ba1cc690b29c7cb7707e90a7996dccda780aa5d"
 
 [[package]]
 name = "python-dateutil"
@@ -592,11 +592,11 @@ tqdm = "^4.65.0"
 
 [package.source]
 type = "git"
-url = "https://github.com/legout/yfin"
+url = "https://github.com/legout/yfin.git"
 reference = "HEAD"
-resolved_reference = "8e61ec89d699e1fd04f970b3bd207a45e442b079"
+resolved_reference = "be28504b797f96c9a28c48910d626f39cc8080f2"
 
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.11"
-content-hash = "e361fea72701887b787b704896b16fe3519cd990d30130b189b286bc8c544993"
+content-hash = "2322e5e628bc76b73d43633bfddff39c776167ea045be621d6750ce793561934"

@@ -6,7 +6,7 @@ This is a blazing fast python script to download *almost all* yahoo symbols.
 ## Install
 
 ```
-pip install https://github.com/legout/yahoo-symbols
+pip install git+https://github.com/legout/yahoo-symbols.git
 ```
 
 ## Usage Example
