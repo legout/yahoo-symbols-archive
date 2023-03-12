@@ -5,8 +5,6 @@ This is a blazing fast python script to download *almost all* yahoo symbols.
 
 ## Install
 
-Clone this repository or download the zip archive.
-
 ```
 pip install https://github.com/legout/yahoo-symbols
 ```
@@ -65,7 +63,7 @@ This script should work fine without using random proxies.
 When using the  option `--use-random-proxy`  free proxies* are used. In my experience, these proxies are not reliable, but maybe you are lucky.
 
 #### Webshare.io proxies
-I am using proxies from [webshare.io](https://www.webshare.io/?referral_code=upb7xtsy39kl)**. I am very happy with their service and the pricing. If you wanna use their service too, sign up (use the [this link](https://www.webshare.io/?referral_code=upb7xtsy39kl) if you wanna support my work) and choose a plan that fits your needs. In the next step, go to Dashboard -> Proxy -> List -> Download and copy the download link. Place this download link into an `.env` file and name the variable `WEBSHARE_PROXIES_URL` (see the `.env-exmaple` in this repository).
+I am using proxies from [webshare.io](https://www.webshare.io/). I am very happy with their service and the pricing. If you wanna use their service too, sign up (use the [this link](https://www.webshare.io/?referral_code=upb7xtsy39kl) if you wanna support my work) and choose a plan that fits your needs. In the next step, go to Dashboard -> Proxy -> List -> Download and copy the download link. Place this download link into an `.env` file and name the variable `WEBSHARE_PROXIES_URL` (see the `.env-exmaple` in this repository).
 
 
 
@@ -80,7 +78,6 @@ WEBSHARE_PROXIES_URL="https://proxy.webshare.io/api/v2/proxy/list/download/abcde
 - "https://free-proxy-list.net/uk-proxy.html"
 - "https://www.sslproxies.org/"
 
-**Affiliate Link if you wanna support me.
 
 <hr>
 
