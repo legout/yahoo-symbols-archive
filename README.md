@@ -67,7 +67,7 @@ I am using proxies from [webshare.io](https://www.webshare.io/). I am very happy
 
 *Export WEBSHARE_PROXIES_URL in your linux shell*
 ```
-$ export WEBSHARE_PROXIES_URL=WEBSHARE_PROXIES_URL="https://proxy.webshare.io/api/v2/proxy/list/download/abcdefg1234567/-/any/username/direct/-/"
+$ export WEBSHARE_PROXIES_URL="https://proxy.webshare.io/api/v2/proxy/list/download/abcdefg1234567/-/any/username/direct/-/"
 ```
 
 You can also set this environment variable permanently in an `.env` file (see the `.env-exmaple`) in your home folder or current folder or in your command line config file (e.g. `~/.bashrc`).

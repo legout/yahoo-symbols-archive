@@ -12,6 +12,7 @@ pandas = "^1.5.3"
 typer = "^0.7.0"
 yfin = { git = "https://github.com/legout/yfin.git" }
 rich = "^13.3.2"
+pyarrow = "^11.0.0"
 
 
 [build-system]
