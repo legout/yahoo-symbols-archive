@@ -1,0 +1,1482 @@
+"symbol","name","industry","exchange","valid"
+"LIBH23.CBT","7-year Eris Swap Futures,Mar-20",,"CBT",true
+"YIBM23.CBT","7-Year Eris SOFR Swap Futures,J",,"CBT",true
+"YIBH23.CBT","7-Year Eris SOFR Swap Futures,M",,"CBT",true
+"EMT=F","E-mini S&P MidCap 400 BTIC Futu",,"CME",true
+"EMD=F","E-mini S&P MidCap 400 Index Fut",,"CME",true
+"45U=F","30-YEAR UMBS TBA FUTURES - 4.5%",,"CBT",true
+"F*EMD.CME","E-mini S&P MidCap 400 Index Fut",,"CME",true
+"EMDH23.CME","E-mini S&P MidCap 400 Index Fut",,"CME",true
+"EMTH23.CME","E-mini S&P MidCap 400 BTIC Futu",,"CME",true
+"EMDM23.CME","E-mini S&P MidCap 400 Index Fut",,"CME",true
+"F*45U.CBT","30-YEAR UMBS TBA FUTURES - 4.5%",,"CBT",true
+"F*EMT.CME","E-mini S&P MidCap 400 BTIC Futu",,"CME",true
+"40UJ23.CBT","30-YEAR UMBS TBA FUTURES - 4.0%",,"CBT",true
+"45UJ23.CBT","30-YEAR UMBS TBA FUTURES - 4.5%",,"CBT",true
+"LIDH23.CBT","4-year Eris Swap Futures,Mar-20",,"CBT",true
+"YIDH23.CBT","4-Year Eris SOFR Swap Futures,M",,"CBT",true
+"30Y=F","Micro 30-Year Yield Futures,Mar",,"CBT",true
+"35U=F","30-YEAR UMBS TBA FUTURES - 3.5%",,"CBT",true
+"50U=F","30-YEAR UMBS TBA FUTURES - 5.0%",,"CBT",true
+"YICH23.CBT","3-Year Eris SOFR Swap Futures,M",,"CBT",true
+"35UJ23.CBT","30-YEAR UMBS TBA FUTURES - 3.5%",,"CBT",true
+"FVN-H23.SI","SGX FTSE Vietnam 30 Index Fut, ",,"SES",true
+"30YH23.CBT","Micro 30-Year Yield Futures,Mar",,"CBT",true
+"F*35U.CBT","30-YEAR UMBS TBA FUTURES - 3.5%",,"CBT",true
+"F*30Y.CBT","Micro 30-Year Yield Futures,Mar",,"CBT",true
+"F*50U.CBT","30-YEAR UMBS TBA FUTURES - 5.0%",,"CBT",true
+"30U=F","30-YEAR UMBS TBA FUTURES - 3.0%",,"CBT",true
+"30UJ23.CBT","30-YEAR UMBS TBA FUTURES - 3.0%",,"CBT",true
+"30YJ23.CBT","Micro 30-Year Yield Futures,Apr",,"CBT",true
+"LICH23.CBT","3-Year Eris Swap Futures,Mar-20",,"CBT",true
+"F*30U.CBT","30-YEAR UMBS TBA FUTURES - 3.0%",,"CBT",true
+"YICM23.CBT","3-Year Eris SOFR Swap Futures,J",,"CBT",true
+"50UJ23.CBT","30-YEAR UMBS TBA FUTURES - 5.0%",,"CBT",true
+"SON=F","Quarterly IMM SONIA Futures,Mar",,"CME",true
+"SDIM23.CME","S&P 500 Quarterly Dividend Inde",,"CME",true
+"SDIZ23.CME","S&P 500 Quarterly Dividend Inde",,"CME",true
+"F*SON.CME","Quarterly IMM SONIA Futures,Dec",,"CME",true
+"SONZ22.CME","Quarterly IMM SONIA Futures,Dec",,"CME",true
+"SDIU23.CME","S&P 500 Quarterly Dividend Inde",,"CME",true
+"SDIH24.CME","S&P 500 Quarterly Dividend Inde",,"CME",true
+"ES=F","E-Mini S&P 500 Mar 23",,"CME",true
+"YM=F","Mini Dow Jones Indus.-$5 Mar 23",,"CBT",true
+"MES=F","MICRO E-MINI S&P 500 INDEX FUTU",,"CME",true
+"ESG=F","E-mini S&P 500 ESG Index Future",,"CME",true
+"EST=F","BTIC E-mini S&P 500 Futures,Mar",,"CME",true
+"SDA=F","S&P 500 Annual Dividend Index F",,"CME",true
+"F1U=F","5-Year USD MAC Swap Futures,Mar",,"CBT",true
+"5YY=F","Micro 5-Year Yield Futures,Mar-",,"CBT",true
+"EGT=F","BTIC on E-mini S&P 500 ESG Inde",,"CME",true
+"ESH23.CME","E-Mini S&P 500 Mar 23",,"CME",true
+"ESM23.CME","E-Mini S&P 500 Jun 23",,"CME",true
+"MESH23.CME","MICRO E-MINI S&P 500 INDEX FUTU",,"CME",true
+"YMH23.CBT","Mini Dow Jones Indus.-$5 Mar 23",,"CBT",true
+"IN-H23.SI","SGX Nifty 50 Index  Futures, Ma",,"SES",true
+"MESM23.CME","MICRO E-MINI S&P 500 INDEX FUTU",,"CME",true
+"IN-M23.SI","SGX Nifty 50 Index  Futures, Ju",,"SES",true
+"IN-J23.SI","SGX Nifty 50 Index  Futures, Ap",,"SES",true
+"YMM23.CBT","Mini Dow Jones Indus.-$5 Jun 23",,"CBT",true
+"ESZ23.CME","E-Mini S&P 500 Dec 23",,"CME",true
+"ESU23.CME","E-Mini S&P 500 Sep 23",,"CME",true
+"F*YM.CBT","Mini Dow Jones Indus.-$5 Mar 23",,"CBT",true
+"ESH24.CME","E-Mini S&P 500 Mar 24",,"CME",true
+"F*SDA.CME","S&P 500 Annual Dividend Index F",,"CME",true
+"F*ES.CME","E-Mini S&P 500 Mar 23",,"CME",true
+"F*MES.CME","MICRO E-MINI S&P 500 INDEX FUTU",,"CME",true
+"ESTH23.CME","BTIC E-mini S&P 500 Futures,Mar",,"CME",true
+"F*EST.CME","BTIC E-mini S&P 500 Futures,Mar",,"CME",true
+"SDAZ25.CME","S&P 500 Annual Dividend Index F",,"CME",true
+"MESZ23.CME","MICRO E-MINI S&P 500 INDEX FUTU",,"CME",true
+"SDAZ23.CME","S&P 500 Annual Dividend Index F",,"CME",true
+"MESH24.CME","MICRO E-MINI S&P 500 INDEX FUTU",,"CME",true
+"F1UH23.CBT","5-Year USD MAC Swap Futures,Mar",,"CBT",true
+"SDAZ24.CME","S&P 500 Annual Dividend Index F",,"CME",true
+"SDAZ27.CME","S&P 500 Annual Dividend Index F",,"CME",true
+"EGTH23.CME","BTIC on E-mini S&P 500 ESG Inde",,"CME",true
+"SDAZ31.CME","S&P 500 Annual Dividend Index F",,"CME",true
+"SDAZ29.CME","S&P 500 Annual Dividend Index F",,"CME",true
+"SDAZ28.CME","S&P 500 Annual Dividend Index F",,"CME",true
+"ESTM23.CME","BTIC E-mini S&P 500 Futures,Jun",,"CME",true
+"MESU23.CME","MICRO E-MINI S&P 500 INDEX FUTU",,"CME",true
+"ESGH23.CME","E-mini S&P 500 ESG Index Future",,"CME",true
+"SDAZ30.CME","S&P 500 Annual Dividend Index F",,"CME",true
+"YMU23.CBT","Mini Dow Jones Indus.-$5 Sep 23",,"CBT",true
+"LIWH23.CBT","5-year Eris Swap Futures,Mar-20",,"CBT",true
+"YMZ23.CBT","Mini Dow Jones Indus.-$5 Dec 23",,"CBT",true
+"F*5YY.CBT","Micro 5-Year Yield Futures,Mar-",,"CBT",true
+"F*ESG.CME","E-mini S&P 500 ESG Index Future",,"CME",true
+"SDAZ26.CME","S&P 500 Annual Dividend Index F",,"CME",true
+"5YYH23.CBT","Micro 5-Year Yield Futures,Mar-",,"CBT",true
+"F1UM23.CBT","5-Year USD MAC Swap Futures,Jun",,"CBT",true
+"YIWM23.CBT","5-Year Eris SOFR Swap Futures,J",,"CBT",true
+"F*EGT.CME","BTIC on E-mini S&P 500 ESG Inde",,"CME",true
+"F1S=F","5-Year MAC SOFR Swap Futures,Ma",,"CBT",true
+"YIWH23.CBT","5-Year Eris SOFR Swap Futures,M",,"CBT",true
+"F*F1U.CBT","5-Year USD MAC Swap Futures,Mar",,"CBT",true
+"ESGM23.CME","E-mini S&P 500 ESG Index Future",,"CME",true
+"F*F1S.CBT","5-Year MAC SOFR Swap Futures,Ma",,"CBT",true
+"F1SH23.CBT","5-Year MAC SOFR Swap Futures,Ma",,"CBT",true
+"ZT=F","2-Year T-Note Futures,Jun-2023",,"CBT",true
+"ZN=F","10-Year T-Note Futures,Jun-2023",,"CBT",true
+"ZF=F","Five-Year US Treasury Note Futu",,"CBT",true
+"2YY=F","Micro 2-Year Yield Futures,Apr-",,"CBT",true
+"10Y=F","Micro 10-Year Yield Futures,Mar",,"CBT",true
+"6J=F","Japanese Yen Futures,Jun-2023",,"CME",true
+"TWE=F","20-Year U.S. Treasury Bond Futu",,"CBT",true
+"TN=F","Ultra 10-Year U.S. Treasury Not",,"CBT",true
+"TPY=F","Yen Denominated TOPIX Futures,M",,"CME",true
+"CJY=F","Canadian Dollar/Japanese Yen Fu",,"CME",true
+"N1S=F","10-Year MAC SOFR Swap Futures,M",,"CBT",true
+"RY=F","Euro/Japanese Yen Futures,Mar-2",,"CME",true
+"J7=F","E-mini Japanese Yen Futures,Jun",,"CME",true
+"AJY=F","Australian Dollar/Japanese Yen ",,"CME",true
+"Z3N=F","Three Year Treasury Note Future",,"CBT",true
+"SJY=F","Swiss Franc/Japanese Yen Future",,"CME",true
+"N1U=F","10-Year USD MAC Swap Futures,Ma",,"CBT",true
+"PJY=F","British Pound/Japanese Yen Futu",,"CME",true
+"ZTM23.CBT","2-Year T-Note Futures,Jun-2023",,"CBT",true
+"AJYH23.CME","Australian Dollar/Japanese Yen ",,"CME",true
+"ZTH23.CBT","2-Year T-Note Futures,Mar-2023",,"CBT",true
+"2YYH23.CBT","Micro 2-Year Yield Futures,Mar-",,"CBT",true
+"ZNM23.CBT","10-Year T-Note Futures,Jun-2023",,"CBT",true
+"ZNH23.CBT","10-Year T-Note Futures,Mar-2023",,"CBT",true
+"6JM23.CME","Japanese Yen Futures,Jun-2023",,"CME",true
+"F*ZF.CBT","Five-Year US Treasury Note Futu",,"CBT",true
+"ZFM23.CBT","Five-Year US Treasury Note Futu",,"CBT",true
+"F*10Y.CBT","Micro 10-Year Yield Futures,Mar",,"CBT",true
+"Z3NM23.CBT","Three Year Treasury Note Future",,"CBT",true
+"LIYH23.CBT","10-year Eris Swap Futures,Mar-2",,"CBT",true
+"TPYH23.CME","Yen Denominated TOPIX Futures,M",,"CME",true
+"ZTU23.CBT","2-Year T-Note Futures,Sep-2023",,"CBT",true
+"10YH23.CBT","Micro 10-Year Yield Futures,Mar",,"CBT",true
+"PJYH23.CME","British Pound/Japanese Yen Futu",,"CME",true
+"N1UH23.CBT","10-Year USD MAC Swap Futures,Ma",,"CBT",true
+"6JH23.CME","Japanese Yen Futures,Mar-2023",,"CME",true
+"F*TPY.CME","Yen Denominated TOPIX Futures,M",,"CME",true
+"ZFH23.CBT","Five-Year US Treasury Note Futu",,"CBT",true
+"Z3NH23.CBT","Three Year Treasury Note Future",,"CBT",true
+"TNH23.CBT","Ultra 10-Year U.S. Treasury Not",,"CBT",true
+"F*ZN.CBT","10-Year T-Note Futures,Jun-2023",,"CBT",true
+"F*ZT.CBT","2-Year T-Note Futures,Jun-2023",,"CBT",true
+"6JZ23.CME","Japanese Yen Futures,Dec-2023",,"CME",true
+"F*6J.CME","Japanese Yen Futures,Jun-2023",,"CME",true
+"F*RY.CME","Euro/Japanese Yen Futures,Jun-2",,"CME",true
+"RYH23.CME","Euro/Japanese Yen Futures,Mar-2",,"CME",true
+"TWEH23.CBT","20-Year U.S. Treasury Bond Futu",,"CBT",true
+"F*N1U.CBT","10-Year USD MAC Swap Futures,Ma",,"CBT",true
+"F*AJY.CME","Australian Dollar/Japanese Yen ",,"CME",true
+"J7H23.CME","E-mini Japanese Yen Futures,Mar",,"CME",true
+"6JU23.CME","Japanese Yen Futures,Sep-2023",,"CME",true
+"TNM23.CBT","Ultra 10-Year U.S. Treasury Not",,"CBT",true
+"F*2YY.CBT","Micro 2-Year Yield Futures,Mar-",,"CBT",true
+"F*TN.CBT","Ultra 10-Year U.S. Treasury Not",,"CBT",true
+"N1SH23.CBT","10-Year MAC SOFR Swap Futures,M",,"CBT",true
+"F*Z3N.CBT","Three Year Treasury Note Future",,"CBT",true
+"F*TWE.CBT","20-Year U.S. Treasury Bond Futu",,"CBT",true
+"2YYJ23.CBT","Micro 2-Year Yield Futures,Apr-",,"CBT",true
+"F*J7.CME","E-mini Japanese Yen Futures,Jun",,"CME",true
+"F*SJY.CME","Swiss Franc/Japanese Yen Future",,"CME",true
+"SJYH23.CME","Swiss Franc/Japanese Yen Future",,"CME",true
+"F*PJY.CME","British Pound/Japanese Yen Futu",,"CME",true
+"RYM23.CME","Euro/Japanese Yen Futures,Jun-2",,"CME",true
+"ZNU23.CBT","10-Year T-Note Futures,Sep-2023",,"CBT",true
+"J7M23.CME","E-mini Japanese Yen Futures,Jun",,"CME",true
+"F*CJY.CME","Canadian Dollar/Japanese Yen Fu",,"CME",true
+"TWEM23.CBT","20-Year U.S. Treasury Bond Futu",,"CBT",true
+"F*N1S.CBT","10-Year MAC SOFR Swap Futures,M",,"CBT",true
+"YIYH23.CBT","10-Year Eris SOFR Swap Futures,",,"CBT",true
+"YIAM23.CBT","1-Year Eris SOFR Swap Futures,J",,"CBT",true
+"N1UM23.CBT","10-Year USD MAC Swap Futures,Ju",,"CBT",true
+"6JJ23.CME","Japanese Yen Futures,Apr-2023",,"CME",true
+"YITH23.CBT","2-Year Eris SOFR Swap Futures,M",,"CBT",true
+"YITM23.CBT","2-Year Eris SOFR Swap Futures,J",,"CBT",true
+"TPYM23.CME","Yen Denominated TOPIX Futures,J",,"CME",true
+"6JK23.CME","Japanese Yen Futures,May-2023",,"CME",true
+"AJYM23.CME","Australian Dollar/Japanese Yen ",,"CME",true
+"LITH23.CBT","2-Year Eris Swap Futures,Mar-20",,"CBT",true
+"YIAH23.CBT","1-Year Eris SOFR Swap Futures,M",,"CBT",true
+"PJYM23.CME","British Pound/Japanese Yen Futu",,"CME",true
+"CJYH23.CME","Canadian Dollar/Japanese Yen Fu",,"CME",true
+"10YJ23.CBT","Micro 10-Year Yield Futures,Apr",,"CBT",true
+"6JH24.CME","Japanese Yen Futures,Mar-2024",,"CME",true
+"SJYM23.CME","Swiss Franc/Japanese Yen Future",,"CME",true
+"EPZ=F","Polish Zloty/Euro (PLN/EUR) Cro",,"CME",true
+"6N=F","New Zealand Dollar Futures,Mar-",,"CME",true
+"6NH23.CME","New Zealand Dollar Futures,Mar-",,"CME",true
+"PLNH23.CME","Polish Zloty Futures,Mar-2023",,"CME",true
+"F*6N.CME","New Zealand Dollar Futures,Mar-",,"CME",true
+"EPZH23.CME","Polish Zloty/Euro (PLN/EUR) Cro",,"CME",true
+"6NM23.CME","New Zealand Dollar Futures,Jun-",,"CME",true
+"F*EPZ.CME","Polish Zloty/Euro (PLN/EUR) Cro",,"CME",true
+"F*PLN.CME","Polish Zloty Futures,Mar-2023",,"CME",true
+"ZZEE-H23.SI","Zee Entertainment Ent FUT, Marc",,"SES",true
+"PLNM23.CME","Polish Zloty Futures,Jun-2023",,"CME",true
+"6NU23.CME","New Zealand Dollar Futures,Sep-",,"CME",true
+"ANEM23.CME","Australian Dollar/New Zealand D",,"CME",true
+"GC=F","Gold Apr 23",,"CMX",true
+"CL=F","Crude Oil Apr 23",,"NYM",true
+"SI=F","Silver Mar 23",,"CMX",true
+"NG=F","Natural Gas Apr 23",,"NYM",true
+"NQ=F","Nasdaq 100 Mar 23",,"CME",true
+"DX=F","US Dollar Jun 23",,"NYB",true
+"HG=F","Copper May 23",,"CMX",true
+"PL=F","Platinum Jul 23",,"NYM",true
+"KC=F","Coffee May 23",,"NYB",true
+"HO=F","Heating Oil Apr 23",,"NYM",true
+"LBS=F","Lumber May 23",,"CME",true
+"RTY=F","E-mini Russell 2000 Index Futur",,"CME",true
+"SB=F","Sugar #11 May 23",,"NYB",true
+"RB=F","RBOB Gasoline Apr 23",,"NYM",true
+"PA=F","Palladium Jun 23",,"NYM",true
+"ALI=F","Aluminum Futures,Mar-2023",,"CMX",true
+"CT=F","Cotton May 23",,"NYB",true
+"ZC=F","Corn Futures,May-2023",,"CBT",true
+"ZW=F","Chicago SRW Wheat Futures,May-2",,"CBT",true
+"CC=F","Cocoa Mar 23",,"NYB",true
+"OJ=F","Orange Juice Mar 23",,"NYB",true
+"ZS=F","Soybean Futures,Mar-2023",,"CBT",true
+"MGC=F","Micro Gold Futures,Apr-2023",,"CMX",true
+"BTC=F","Bitcoin Futures,Mar-2023",,"CME",true
+"LE=F","Live Cattle Futures,Apr-2023",,"CME",true
+"QM=F","E-mini Crude Oil Futures,Apr-20",,"NYM",true
+"6E=F","Euro FX Futures,Jun-2023",,"CME",true
+"6C=F","Canadian Dollar Futures,Jun-202",,"CME",true
+"KE=F","KC HRW Wheat Futures,Mar-2023",,"CBT",true
+"GE=F","Eurodollar Futures,Jun-2023",,"CME",true
+"LBR=F","Lumber Futures,Jul-2023",,"CME",true
+"SIL=F","Micro Silver Futures,Mar-2023",,"CMX",true
+"YMT=F","BTIC E-mini DJIA Futures,Mar-20",,"CBT",true
+"GF=F","Feeder Cattle Futures,Mar-2023",,"CME",true
+"ZL=F","Soybean Oil Futures,Mar-2023",,"CBT",true
+"ZO=F","Oat Futures,Mar-2023",,"CBT",true
+"ETH=F","Ether Futures,Mar-2023",,"CME",true
+"ZM=F","Soybean Meal Futures,Mar-2023",,"CBT",true
+"HE=F","Lean Hogs Futures,Apr-2023",,"CME",true
+"NIY=F","Nikkei/Yen Futures,Jun-2023",,"CME",true
+"6M=F","Mexican Peso Futures,Mar-2023",,"CME",true
+"HGT=F","Copper TAS Futures,Jul-2023",,"CMX",true
+"SR3=F","Three-Month SOFR Futures,Mar-20",,"CME",true
+"NKD=F","Nikkei/USD Futures,Mar-2023",,"CME",true
+"ZR=F","Rough Rice Futures,Mar-2023",,"CBT",true
+"6S=F","Swiss Franc Futures,Jun-2023",,"CME",true
+"MBT=F","Micro Bitcoin Futures,Mar-2023",,"CME",true
+"DC=F","Class III Milk Futures,Jun-2023",,"CME",true
+"SIR=F","Indian Rupee/USD Futures,Mar-20",,"CME",true
+"M2K=F","Micro E-mini Russell 2000 Index",,"CME",true
+"QC=F","E-mini Copper Futures,May-2023",,"CMX",true
+"6A=F","Australian Dollar Futures,Jun-2",,"CME",true
+"QI=F","E-mini Silver Futures,May-2023",,"CMX",true
+"MHG=F","Micro Copper Futures,May-2023",,"CMX",true
+"6B=F","British Pound Futures,Jun-2023",,"CME",true
+"LET=F","Live Cattle TAS Futures,Jun-202",,"CME",true
+"6L=F","Brazilian Real Futures,Apr-2023",,"CME",true
+"SR1=F","One-Month SOFR Futures,Jun-2023",,"CME",true
+"KRW=F","Korean Won Futures,Mar-2023",,"CME",true
+"QO=F","E-mini Gold Futures,Apr-2023",,"CMX",true
+"GNF=F","Nonfat Dry Milk Futures,Apr-202",,"CME",true
+"XC=F","Mini-Corn Futures,May-2023",,"CBT",true
+"SIT=F","Silver TAS Futures,Jul-2023",,"CMX",true
+"M6C=F","Micro USD/CAD Futures,Mar-2023",,"CME",true
+"BLK=F","Block Cheese Futures,Jun-2023",,"CME",true
+"M6E=F","Micro EUR/USD Futures,Jun-2023",,"CME",true
+"SED=F","SED Future SEP 2023 Trading Ses",,"CME",true
+"PLT=F","Platinum TAS Futures,Apr-2023",,"NYM",true
+"M6B=F","Micro GBP/USD Futures,Jun-2023",,"CME",true
+"M6J=F","Micro USD/JPY Futures,Jun-2023",,"CME",true
+"SEK=F","Swedish Krona Futures,Jun-2023",,"CME",true
+"M6A=F","Micro AUD/USD Futures,Mar-2023",,"CME",true
+"GCT=F","Gold TAS Futures,Jun-2023",,"CMX",true
+"MCD=F","Micro CAD/USD Futures,Jun-2023",,"CME",true
+"GDK=F","Class IV Milk Futures,Jul-2023",,"CME",true
+"PRK=F","Pork Cutout Futures,Jun-2023",,"CME",true
+"XK=F","Mini Soybean Futures,Mar-2023",,"CBT",true
+"RF=F","Euro/Swiss Franc Futures,Mar-20",,"CME",true
+"HOT=F","NY Harbor ULSD TAS,Jul-2023",,"NYM",true
+"ZCT=F","Corn TAS Futures,Sep-2023",,"CBT",true
+"CLT=F","Crude Oil TAS Futures,Jun-2023",,"NYM",true
+"MSF=F","Micro CHF/USD Futures,Mar-2023",,"CME",true
+"MET=F","Micro Ether Futures,Mar-2023",,"CME",true
+"KZY=F","CHF/JPY 250 - NYCC - Mar23",,"NYB",true
+"NOK=F","Norwegian Krone Futures,Mar-202",,"CME",true
+"RLT=F","BTIC on E-mini Russell 2000 Ind",,"CME",true
+"RBT=F","RBOB TAS Futures,Apr-2023",,"NYM",true
+"KET=F","KC HRW Wheat TAS Futures,Jul-20",,"CBT",true
+"RTQ=F","TACO on E-mini Russel 2000 Futu",,"CME",true
+"M6S=F","Micro USD/CHF Futures,Mar-2023",,"CME",true
+"HET=F","Lean Hogs TAS Futures,Apr-2023",,"CME",true
+"GFT=F","Feeder Cattle TAS Futures,Apr-2",,"CME",true
+"DY=F","Dry Whey Futures,Mar-2023",,"CME",true
+"E7=F","E-mini Euro FX Futures,Mar-2023",,"CME",true
+"ZLT=F","Soybean Oil TAS Futures,Jul-202",,"CBT",true
+"SBT=F","Soybean TAS Futures,Aug-2023",,"CBT",true
+"ZMT=F","Soybean Meal TAS Futures,May-20",,"CBT",true
+"NIYH23.CME","Nikkei/Yen Futures,Mar-2023",,"CME",true
+"NGJ23.NYM","Natural Gas Apr 23",,"NYM",true
+"GCJ23.CMX","Gold Apr 23",,"CMX",true
+"CLJ23.NYM","Crude Oil Apr 23",,"NYM",true
+"NQH23.CME","Nasdaq 100 Mar 23",,"CME",true
+"NGK23.NYM","Natural Gas May 23",,"NYM",true
+"SIK23.CMX","Silver May 23",,"CMX",true
+"LBSK23.CME","Lumber May 23",,"CME",true
+"GCH23.CMX","Gold Mar 23",,"CMX",true
+"NGZ23.NYM","Natural Gas Dec 23",,"NYM",true
+"ZLZ23.CBT","Soybean Oil Futures,Dec-2023",,"CBT",true
+"RTYH23.CME","E-mini Russell 2000 Index Futur",,"CME",true
+"ZCK23.CBT","Corn Futures,May-2023",,"CBT",true
+"HGK23.CMX","Copper May 23",,"CMX",true
+"ZCZ23.CBT","Corn Futures,Dec-2023",,"CBT",true
+"DXM23.NYB","US Dollar Jun 23",,"NYB",true
+"ZSK23.CBT","Soybean Futures,May-2023",,"CBT",true
+"GCM23.CMX","Gold Jun 23",,"CMX",true
+"CLM23.NYM","Crude Oil Jun 23",,"NYM",true
+"CTK23.NYB","Cotton May 23",,"NYB",true
+"SIH23.CMX","Silver Mar 23",,"CMX",true
+"ZCH23.CBT","Corn Futures,Mar-2023",,"CBT",true
+"HOJ23.NYM","Heating Oil Apr 23",,"NYM",true
+"NGM23.NYM","Natural Gas Jun 23",,"NYM",true
+"PLN23.NYM","Platinum Jul 23",,"NYM",true
+"CLK23.NYM","Crude Oil May 23",,"NYM",true
+"GCZ24.CMX","Gold Dec 24",,"CMX",true
+"ZTSM-H23.SI","TSMC ADR Futures, March 2023, T",,"SES",true
+"ZCN23.CBT","Corn Futures,Jul-2023",,"CBT",true
+"GCK23.CMX","Gold May 23",,"CMX",true
+"ZSX23.CBT","Soybean Futures,Nov-2023",,"CBT",true
+"F*HOT.NYM","NY Harbor ULSD TAS,Jul-2023",,"NYM",true
+"GCZ23.CMX","Gold Dec 23",,"CMX",true
+"NQM23.CME","Nasdaq 100 Jun 23",,"CME",true
+"GEH25.CME","Eurodollar Futures,Mar-2025",,"CME",true
+"CLU23.NYM","Crude Oil Sep 23",,"NYM",true
+"F*CL.NYM","Crude Oil Apr 23",,"NYM",true
+"ZSX25.CBT","Soybean Futures,Nov-2025",,"CBT",true
+"DXH23.NYB","US Dollar Mar 23",,"NYB",true
+"ZMH23.CBT","Soybean Meal Futures,Mar-2023",,"CBT",true
+"F*6A.CME","Australian Dollar Futures,Mar-2",,"CME",true
+"F*6E.CME","Euro FX Futures,Jun-2023",,"CME",true
+"NGH24.NYM","Natural Gas Mar 24",,"NYM",true
+"GEU24.CME","Eurodollar Futures,Sep-2024",,"CME",true
+"F*SIT.CMX","Silver TAS Futures,May-2023",,"CMX",true
+"ZMK23.CBT","Soybean Meal Futures,May-2023",,"CBT",true
+"GFU23.CME","Feeder Cattle Futures,Sep-2023",,"CME",true
+"NKDM23.CME","Nikkei/USD Futures,Jun-2023",,"CME",true
+"ZSF24.CBT","Soybean Futures,Jan-2024",,"CBT",true
+"ZOH24.CBT","Oat Futures,Mar-2024",,"CBT",true
+"GCJ24.CMX","Gold Apr 24",,"CMX",true
+"NGN23.NYM","Natural Gas Jul 23",,"NYM",true
+"F*SI.CMX","Silver Mar 23",,"CMX",true
+"GFH23.CME","Feeder Cattle Futures,Mar-2023",,"CME",true
+"6MH23.CME","Mexican Peso Futures,Mar-2023",,"CME",true
+"RBJ23.NYM","RBOB Gasoline Apr 23",,"NYM",true
+"ZLK23.CBT","Soybean Oil Futures,May-2023",,"CBT",true
+"NGF24.NYM","Natural Gas Jan 24",,"NYM",true
+"NGZ24.NYM","Natural Gas Dec 24",,"NYM",true
+"F*KRW.CME","Korean Won Futures,Mar-2023",,"CME",true
+"RTYM23.CME","E-mini Russell 2000 Index Futur",,"CME",true
+"ZCK24.CBT","Corn Futures,May-2024",,"CBT",true
+"HGQ23.CMX","Copper Aug 23",,"CMX",true
+"ZMH24.CBT","Soybean Meal Futures,Mar-2024",,"CBT",true
+"CLF25.NYM","Crude Oil Jan 25",,"NYM",true
+"CLZ23.NYM","Crude Oil Dec 23",,"NYM",true
+"CLH24.NYM","Crude Oil Mar 24",,"NYM",true
+"ZWK23.CBT","Chicago SRW Wheat Futures,May-2",,"CBT",true
+"BTCH23.CME","Bitcoin Futures,Mar-2023",,"CME",true
+"ZLH23.CBT","Soybean Oil Futures,Mar-2023",,"CBT",true
+"F*ZS.CBT","Soybean Futures,Mar-2023",,"CBT",true
+"F*SIR.CME","Indian Rupee/USD Futures,Mar-20",,"CME",true
+"ZSH23.CBT","Soybean Futures,Mar-2023",,"CBT",true
+"PAM23.NYM","Palladium Jun 23",,"NYM",true
+"ZMV23.CBT","Soybean Meal Futures,Oct-2023",,"CBT",true
+"6EH23.CME","Euro FX Futures,Mar-2023",,"CME",true
+"LBSH23.CME","Lumber Mar 23",,"CME",true
+"ZCTK23.CBT","Corn TAS Futures,May-2023",,"CBT",true
+"CLJ24.NYM","Crude Oil Apr 24",,"NYM",true
+"SIK24.CMX","Silver May 24",,"CMX",true
+"ZOK23.CBT","Oat Futures,May-2023",,"CBT",true
+"KCH23.NYB","Coffee Mar 23",,"NYB",true
+"ZLF24.CBT","Soybean Oil Futures,Jan-2024",,"CBT",true
+"QCU23.CMX","E-mini Copper Futures,Sep-2023",,"CMX",true
+"RBZ23.NYM","RBOB Gasoline Dec 23",,"NYM",true
+"ZLZ24.CBT","Soybean Oil Futures,Dec-2024",,"CBT",true
+"ZCH24.CBT","Corn Futures,Mar-2024",,"CBT",true
+"QCM23.CMX","E-mini Copper Futures,Jun-2023",,"CMX",true
+"GEM23.CME","Eurodollar Futures,Jun-2023",,"CME",true
+"DCJ23.CME","Class III Milk Futures,Apr-2023",,"CME",true
+"ETHH23.CME","Ether Futures,Mar-2023",,"CME",true
+"ZLH24.CBT","Soybean Oil Futures,Mar-2024",,"CBT",true
+"ZSN23.CBT","Soybean Futures,Jul-2023",,"CBT",true
+"ZCZ24.CBT","Corn Futures,Dec-2024",,"CBT",true
+"CLU24.NYM","Crude Oil Sep 24",,"NYM",true
+"CLZ27.NYM","Crude Oil Dec 27",,"NYM",true
+"SILK23.CMX","Micro Silver Futures,May-2023",,"CMX",true
+"DCN23.CME","Class III Milk Futures,Jul-2023",,"CME",true
+"CTH24.NYB","Cotton Mar 24",,"NYB",true
+"QMZ23.NYM","E-mini Crude Oil Futures,Dec-20",,"NYM",true
+"CCK23.NYB","Cocoa May 23",,"NYB",true
+"SBN25.NYB","Sugar #11 Jul 25",,"NYB",true
+"SBH24.NYB","Sugar #11 Mar 24",,"NYB",true
+"KCZ25.NYB","Coffee Dec 25",,"NYB",true
+"CCU23.NYB","Cocoa Sep 23",,"NYB",true
+"PAZ23.NYM","Palladium Dec 23",,"NYM",true
+"NGH25.NYM","Natural Gas Mar 25",,"NYM",true
+"ZMZ23.CBT","Soybean Meal Futures,Dec-2023",,"CBT",true
+"F*MET.CME","Micro Ether Futures,Mar-2023",,"CME",true
+"LEJ23.CME","Live Cattle Futures,Apr-2023",,"CME",true
+"HOQ24.NYM","Heating Oil Aug 24",,"NYM",true
+"ZMN23.CBT","Soybean Meal Futures,Jul-2023",,"CBT",true
+"ZVED-H23.SI","Vedanta FUT, March 2023, T sess",,"SES",true
+"CCZ23.NYB","Cocoa Dec 23",,"NYB",true
+"CLX23.NYM","Crude Oil Nov 23",,"NYM",true
+"F*DX.NYB","US Dollar Jun 23",,"NYB",true
+"ZLQ23.CBT","Soybean Oil Futures,Aug-2023",,"CBT",true
+"ZCZ26.CBT","Corn Futures,Dec-2026",,"CBT",true
+"ZMF24.CBT","Soybean Meal Futures,Jan-2024",,"CBT",true
+"ZSQ23.CBT","Soybean Futures,Aug-2023",,"CBT",true
+"HGZ23.CMX","Copper Dec 23",,"CMX",true
+"HGZ24.CMX","Copper Dec 24",,"CMX",true
+"GEZ25.CME","Eurodollar Futures,Dec-2025",,"CME",true
+"M2KM23.CME","Micro E-mini Russell 2000 Index",,"CME",true
+"HOF24.NYM","Heating Oil Jan 24",,"NYM",true
+"F*ALI.CMX","Aluminum Futures,Mar-2023",,"CMX",true
+"ALIJ23.CMX","Aluminum Futures,Apr-2023",,"CMX",true
+"KCH25.NYB","Coffee Mar 25",,"NYB",true
+"CCK24.NYB","Cocoa May 24",,"NYB",true
+"ZCTN23.CBT","Corn TAS Futures,Jul-2023",,"CBT",true
+"GEM29.CME","Eurodollar Futures,Jun-2029",,"CME",true
+"GEH24.CME","Eurodollar Futures,Mar-2024",,"CME",true
+"F*MBT.CME","Micro Bitcoin Futures,Mar-2023",,"CME",true
+"F*LE.CME","Live Cattle Futures,Apr-2023",,"CME",true
+"RFH23.CME","Euro/Swiss Franc Futures,Mar-20",,"CME",true
+"GFJ23.CME","Feeder Cattle Futures,Apr-2023",,"CME",true
+"HEJ23.CME","Lean Hogs Futures,Apr-2023",,"CME",true
+"NGV23.NYM","Natural Gas Oct 23",,"NYM",true
+"HGN23.CMX","Copper Jul 23",,"CMX",true
+"HGF24.CMX","Copper Jan 24",,"CMX",true
+"ZLN23.CBT","Soybean Oil Futures,Jul-2023",,"CBT",true
+"CLTV23.NYM","Crude Oil TAS Futures,Oct-2023",,"NYM",true
+"F*E7.CME","E-mini Euro FX Futures,Mar-2023",,"CME",true
+"F*6B.CME","British Pound Futures,Jun-2023",,"CME",true
+"GFQ23.CME","Feeder Cattle Futures,Aug-2023",,"CME",true
+"LETJ23.CME","Live Cattle TAS Futures,Apr-202",,"CME",true
+"GEH26.CME","Eurodollar Futures,Mar-2026",,"CME",true
+"M6AM23.CME","Micro AUD/USD Futures,Jun-2023",,"CME",true
+"NGX24.NYM","Natural Gas Nov 24",,"NYM",true
+"NGQ23.NYM","Natural Gas Aug 23",,"NYM",true
+"NGX23.NYM","Natural Gas Nov 23",,"NYM",true
+"CCH24.NYB","Cocoa Mar 24",,"NYB",true
+"ZMU23.CBT","Soybean Meal Futures,Sep-2023",,"CBT",true
+"ZMQ23.CBT","Soybean Meal Futures,Aug-2023",,"CBT",true
+"F*ZO.CBT","Oat Futures,Jul-2023",,"CBT",true
+"GEH23.CME","Eurodollar Futures,Mar-2023",,"CME",true
+"MCDM23.CME","Micro CAD/USD Futures,Jun-2023",,"CME",true
+"LBRU23.CME","Lumber Futures,Sep-2023",,"CME",true
+"GNFH23.CME","Nonfat Dry Milk Futures,Mar-202",,"CME",true
+"RBX23.NYM","RBOB Gasoline Nov 23",,"NYM",true
+"GCG24.CMX","Gold Feb 24",,"CMX",true
+"CTN23.NYB","Cotton Jul 23",,"NYB",true
+"SBN23.NYB","Sugar #11 Jul 23",,"NYB",true
+"PAH23.NYM","Palladium Mar 23",,"NYM",true
+"SR1Z23.CME","One-Month SOFR Futures,Dec-2023",,"CME",true
+"GEZ27.CME","Eurodollar Futures,Dec-2027",,"CME",true
+"XKH23.CBT","Mini Soybean Futures,Mar-2023",,"CBT",true
+"CCH23.NYB","Cocoa Mar 23",,"NYB",true
+"XKX25.CBT","Mini Soybean Futures,Nov-2025",,"CBT",true
+"ZWH23.CBT","Chicago SRW Wheat Futures,Mar-2",,"CBT",true
+"QOV23.CMX","E-mini Gold Futures,Oct-2023",,"CMX",true
+"HEN23.CME","Lean Hogs Futures,Jul-2023",,"CME",true
+"LEM23.CME","Live Cattle Futures,Jun-2023",,"CME",true
+"F*LBS.CME","Lumber May 23",,"CME",true
+"HOK23.NYM","Heating Oil May 23",,"NYM",true
+"HGG24.CMX","Copper Feb 24",,"CMX",true
+"QMK23.NYM","E-mini Crude Oil Futures,May-20",,"NYM",true
+"ZLU23.CBT","Soybean Oil Futures,Sep-2023",,"CBT",true
+"ZLV23.CBT","Soybean Oil Futures,Oct-2023",,"CBT",true
+"GCTZ23.CMX","Gold TAS Futures,Dec-2023",,"CMX",true
+"NKDH23.CME","Nikkei/USD Futures,Mar-2023",,"CME",true
+"CTZ24.NYB","Cotton Dec 24",,"NYB",true
+"CCZ24.NYB","Cocoa Dec 24",,"NYB",true
+"KCK23.NYB","Coffee May 23",,"NYB",true
+"OJK23.NYB","Orange Juice May 23",,"NYB",true
+"SBK23.NYB","Sugar #11 May 23",,"NYB",true
+"ZWK24.CBT","Chicago SRW Wheat Futures,May-2",,"CBT",true
+"SIJ23.CMX","Silver Apr 23",,"CMX",true
+"QOJ23.CMX","E-mini Gold Futures,Apr-2023",,"CMX",true
+"GEU27.CME","Eurodollar Futures,Sep-2027",,"CME",true
+"F*NQ.CME","Nasdaq 100 Mar 23",,"CME",true
+"F*BLK.CME","Block Cheese Futures,Jun-2023",,"CME",true
+"6CM23.CME","Canadian Dollar Futures,Jun-202",,"CME",true
+"F*6S.CME","Swiss Franc Futures,Jun-2023",,"CME",true
+"M6BH23.CME","Micro GBP/USD Futures,Mar-2023",,"CME",true
+"F*GF.CME","Feeder Cattle Futures,Mar-2023",,"CME",true
+"ALIM23.CMX","Aluminum Futures,Jun-2023",,"CMX",true
+"KCH24.NYB","Coffee Mar 24",,"NYB",true
+"OJF24.NYB","Orange Juice Jan 24",,"NYB",true
+"CCN23.NYB","Cocoa Jul 23",,"NYB",true
+"ZLK24.CBT","Soybean Oil Futures,May-2024",,"CBT",true
+"ALIN23.CMX","Aluminum Futures,Jul-2023",,"CMX",true
+"GCM24.CMX","Gold Jun 24",,"CMX",true
+"KEU24.CBT","KC HRW Wheat Futures,Sep-2024",,"CBT",true
+"GEM28.CME","Eurodollar Futures,Jun-2028",,"CME",true
+"F*SR1.CME","One-Month SOFR Futures,Jul-2023",,"CME",true
+"6BH23.CME","British Pound Futures,Mar-2023",,"CME",true
+"M6EH23.CME","Micro EUR/USD Futures,Mar-2023",,"CME",true
+"HEK23.CME","Lean Hogs Futures,May-2023",,"CME",true
+"HOZ24.NYM","Heating Oil Dec 24",,"NYM",true
+"HOZ23.NYM","Heating Oil Dec 23",,"NYM",true
+"F*CC.NYB","Cocoa Mar 23",,"NYB",true
+"SEDZ25.CME","SED Future DEC 2025 Trading Ses",,"CME",true
+"KEN24.CBT","KC HRW Wheat Futures,Jul-2024",,"CBT",true
+"QOZ23.CMX","E-mini Gold Futures,Dec-2023",,"CMX",true
+"F*HG0.CMX","Copper Spot TAS Futures,Mar-202",,"CMX",true
+"HEM23.CME","Lean Hogs Futures,Jun-2023",,"CME",true
+"RBTN23.NYM","RBOB TAS Futures,Jul-2023",,"NYM",true
+"HETJ23.CME","Lean Hogs TAS Futures,Apr-2023",,"CME",true
+"SBH25.NYB","Sugar #11 Mar 25",,"NYB",true
+"SBV23.NYB","Sugar #11 Oct 23",,"NYB",true
+"NIYJ23.CME","Nikkei/Yen Futures,Apr-2023",,"CME",true
+"NGV24.NYM","Natural Gas Oct 24",,"NYM",true
+"SR3M23.CME","Three-Month SOFR Futures,Jun-20",,"CME",true
+"GCQ23.CMX","Gold Aug 23",,"CMX",true
+"CCN24.NYB","Cocoa Jul 24",,"NYB",true
+"KETN23.CBT","KC HRW Wheat TAS Futures,Jul-20",,"CBT",true
+"F*SED.CME","SED Future SEP 2023 Trading Ses",,"CME",true
+"CLH25.NYM","Crude Oil Mar 25",,"NYM",true
+"ZOZ23.CBT","Oat Futures,Dec-2023",,"CBT",true
+"ZCIP-H23.SI","Cipla Ltd India FUT, March 2023",,"SES",true
+"ZAXS-H23.SI","Axis Bank FUT, March 2023, T se",,"SES",true
+"ZWZ24.CBT","Chicago SRW Wheat Futures,Dec-2",,"CBT",true
+"QOG24.CMX","E-mini Gold Futures,Feb-2024",,"CMX",true
+"GEM26.CME","Eurodollar Futures,Jun-2026",,"CME",true
+"GEJ23.CME","Eurodollar Futures,Apr-2023",,"CME",true
+"PLJ23.NYM","Platinum Apr 23",,"NYM",true
+"DCH23.CME","Class III Milk Futures,Mar-2023",,"CME",true
+"METZ23.CME","Micro Ether Futures,Dec-2023",,"CME",true
+"HEQ23.CME","Lean Hogs Futures,Aug-2023",,"CME",true
+"F*NIY.CME","Nikkei/Yen Futures,Jun-2023",,"CME",true
+"6EM23.CME","Euro FX Futures,Jun-2023",,"CME",true
+"HEV23.CME","Lean Hogs Futures,Oct-2023",,"CME",true
+"LEQ23.CME","Live Cattle Futures,Aug-2023",,"CME",true
+"RBJ24.NYM","RBOB Gasoline Apr 24",,"NYM",true
+"XKK24.CBT","Mini Soybean Futures,May-2024",,"CBT",true
+"SEDU23.CME","SED Future SEP 2023 Trading Ses",,"CME",true
+"SBTX23.CBT","Soybean TAS Futures,Nov-2023",,"CBT",true
+"BLKN23.CME","Block Cheese Futures,Jul-2023",,"CME",true
+"HGTK23.CMX","Copper TAS Futures,May-2023",,"CMX",true
+"HOTM23.NYM","NY Harbor ULSD TAS,Jun-2023",,"NYM",true
+"ZTAT-H23.SI","Tata Steel FUT, March 2023, T s",,"SES",true
+"SITN23.CMX","Silver TAS Futures,Jul-2023",,"CMX",true
+"SEDZ24.CME","SED Future DEC 2024 Trading Ses",,"CME",true
+"SBK24.NYB","Sugar #11 May 24",,"NYB",true
+"GCTM23.CMX","Gold TAS Futures,Jun-2023",,"CMX",true
+"OJN23.NYB","Orange Juice Jul 23",,"NYB",true
+"CT-ZK23.NYB","Cotton No. 2 TAS - NYCC - May23",,"NYB",true
+"KCK24.NYB","Coffee May 24",,"NYB",true
+"PLTJ23.NYM","Platinum TAS Futures,Apr-2023",,"NYM",true
+"CLZ26.NYM","Crude Oil Dec 26",,"NYM",true
+"F*GFT.CME","Feeder Cattle TAS Futures,Apr-2",,"CME",true
+"QMZ24.NYM","E-mini Crude Oil Futures,Dec-20",,"NYM",true
+"CLZ25.NYM","Crude Oil Dec 25",,"NYM",true
+"PRKK23.CME","Pork Cutout Futures,May-2023",,"CME",true
+"ZLN24.CBT","Soybean Oil Futures,Jul-2024",,"CBT",true
+"ZWZ23.CBT","Chicago SRW Wheat Futures,Dec-2",,"CBT",true
+"F*XC.CBT","Mini-Corn Futures,May-2023",,"CBT",true
+"F*PA.NYM","Palladium Jun 23",,"NYM",true
+"PAU23.NYM","Palladium Sep 23",,"NYM",true
+"PLV23.NYM","Platinum Oct 23",,"NYM",true
+"GEM24.CME","Eurodollar Futures,Jun-2024",,"CME",true
+"SR1Q23.CME","One-Month SOFR Futures,Aug-2023",,"CME",true
+"HETV23.CME","Lean Hogs TAS Futures,Oct-2023",,"CME",true
+"DCU23.CME","Class III Milk Futures,Sep-2023",,"CME",true
+"RBTJ23.NYM","RBOB TAS Futures,Apr-2023",,"NYM",true
+"HOTJ23.NYM","NY Harbor ULSD TAS,Apr-2023",,"NYM",true
+"XCH23.CBT","Mini-Corn Futures,Mar-2023",,"CBT",true
+"KCZ23.NYB","Coffee Dec 23",,"NYB",true
+"CLV23.NYM","Crude Oil Oct 23",,"NYM",true
+"NQZ23.CME","Nasdaq 100 Dec 23",,"CME",true
+"F*XK.CBT","Mini Soybean Futures,Mar-2023",,"CBT",true
+"ZRU23.CBT","Rough Rice Futures,Sep-2023",,"CBT",true
+"F*ZLT.CBT","Soybean Oil TAS Futures,Jul-202",,"CBT",true
+"ZRF24.CBT","Rough Rice Futures,Jan-2024",,"CBT",true
+"GCV24.CMX","Gold Oct 24",,"CMX",true
+"HGX23.CMX","Copper Nov 23",,"CMX",true
+"HGH24.CMX","Copper Mar 24",,"CMX",true
+"ZWU23.CBT","Chicago SRW Wheat Futures,Sep-2",,"CBT",true
+"SILU23.CMX","Micro Silver Futures,Sep-2023",,"CMX",true
+"ZSX24.CBT","Soybean Futures,Nov-2024",,"CBT",true
+"ZOU23.CBT","Oat Futures,Sep-2023",,"CBT",true
+"ZLQ24.CBT","Soybean Oil Futures,Aug-2024",,"CBT",true
+"ZWH24.CBT","Chicago SRW Wheat Futures,Mar-2",,"CBT",true
+"MHGN23.CMX","Micro Copper Futures,Jul-2023",,"CMX",true
+"SILZ23.CMX","Micro Silver Futures,Dec-2023",,"CMX",true
+"SR1M23.CME","One-Month SOFR Futures,Jun-2023",,"CME",true
+"F*HET.CME","Lean Hogs TAS Futures,Apr-2023",,"CME",true
+"LBRK23.CME","Lumber Futures,May-2023",,"CME",true
+"METH23.CME","Micro Ether Futures,Mar-2023",,"CME",true
+"F*M6A.CME","Micro AUD/USD Futures,Mar-2023",,"CME",true
+"MBTJ23.CME","Micro Bitcoin Futures,Apr-2023",,"CME",true
+"HOM23.NYM","Heating Oil Jun 23",,"NYM",true
+"RFM23.CME","Euro/Swiss Franc Futures,Jun-20",,"CME",true
+"GFV23.CME","Feeder Cattle Futures,Oct-2023",,"CME",true
+"6CZ23.CME","Canadian Dollar Futures,Dec-202",,"CME",true
+"6EJ23.CME","Euro FX Futures,Apr-2023",,"CME",true
+"6CH23.CME","Canadian Dollar Futures,Mar-202",,"CME",true
+"F*HE.CME","Lean Hogs Futures,Apr-2023",,"CME",true
+"6BU23.CME","British Pound Futures,Sep-2023",,"CME",true
+"6SM23.CME","Swiss Franc Futures,Jun-2023",,"CME",true
+"BTCH24.CME","Bitcoin Futures,Mar-2024",,"CME",true
+"BTCJ23.CME","Bitcoin Futures,Apr-2023",,"CME",true
+"PRKJ23.CME","Pork Cutout Futures,Apr-2023",,"CME",true
+"F*SB.NYB","Sugar #11 Jul 23",,"NYB",true
+"NGF28.NYM","Natural Gas Jan 28",,"NYM",true
+"6EZ23.CME","Euro FX Futures,Dec-2023",,"CME",true
+"6AZ23.CME","Australian Dollar Futures,Dec-2",,"CME",true
+"MBTH23.CME","Micro Bitcoin Futures,Mar-2023",,"CME",true
+"M2KH23.CME","Micro E-mini Russell 2000 Index",,"CME",true
+"HOJ24.NYM","Heating Oil Apr 24",,"NYM",true
+"BTCK23.CME","Bitcoin Futures,May-2023",,"CME",true
+"M6JM23.CME","Micro USD/JPY Futures,Jun-2023",,"CME",true
+"NGG24.NYM","Natural Gas Feb 24",,"NYM",true
+"SR3Z25.CME","Three-Month SOFR Futures,Dec-20",,"CME",true
+"SR3M27.CME","Three-Month SOFR Futures,Jun-20",,"CME",true
+"SR3U23.CME","Three-Month SOFR Futures,Sep-20",,"CME",true
+"RBN23.NYM","RBOB Gasoline Jul 23",,"NYM",true
+"SR3U27.CME","Three-Month SOFR Futures,Sep-20",,"CME",true
+"SR3H26.CME","Three-Month SOFR Futures,Mar-20",,"CME",true
+"CLF24.NYM","Crude Oil Jan 24",,"NYM",true
+"F*NG.NYM","Natural Gas Apr 23",,"NYM",true
+"SR3M24.CME","Three-Month SOFR Futures,Jun-20",,"CME",true
+"F*GC.CMX","Gold Apr 23",,"CMX",true
+"NGU23.NYM","Natural Gas Sep 23",,"NYM",true
+"GCV23.CMX","Gold Oct 23",,"CMX",true
+"CLTN23.NYM","Crude Oil TAS Futures,Jul-2023",,"NYM",true
+"ZTTM-H23.SI","Tata Motors FUT, March 2023, T ",,"SES",true
+"SEDU25.CME","SED Future SEP 2025 Trading Ses",,"CME",true
+"SEDZ23.CME","SED Future DEC 2023 Trading Ses",,"CME",true
+"GDKJ23.CME","Class IV Milk Futures,Apr-2023",,"CME",true
+"SBV25.NYB","Sugar #11 Oct 25",,"NYB",true
+"CT-ZN23.NYB","Cotton No. 2 TAS - NYCC - Jul23",,"NYB",true
+"GCTJ23.CMX","Gold TAS Futures,Apr-2023",,"CMX",true
+"SBTK23.CBT","Soybean TAS Futures,May-2023",,"CBT",true
+"NK-M23.SI","NIKKEI 225 INDEX FUTURES, June ",,"SES",true
+"ZLPC-H23.SI","Lupin FUT, March 2023, T sessio",,"SES",true
+"RBTU23.NYM","RBOB TAS Futures,Sep-2023",,"NYM",true
+"DCV23.CME","Class III Milk Futures,Oct-2023",,"CME",true
+"XKK23.CBT","Mini Soybean Futures,May-2023",,"CBT",true
+"CTZ23.NYB","Cotton Dec 23",,"NYB",true
+"XCK23.CBT","Mini-Corn Futures,May-2023",,"CBT",true
+"XKX24.CBT","Mini Soybean Futures,Nov-2024",,"CBT",true
+"XKX23.CBT","Mini Soybean Futures,Nov-2023",,"CBT",true
+"HOTQ23.NYM","NY Harbor ULSD TAS,Aug-2023",,"NYM",true
+"XKN23.CBT","Mini Soybean Futures,Jul-2023",,"CBT",true
+"QMM23.NYM","E-mini Crude Oil Futures,Jun-20",,"NYM",true
+"SBTN23.CBT","Soybean TAS Futures,Jul-2023",,"CBT",true
+"F*RBT.NYM","RBOB TAS Futures,Apr-2023",,"NYM",true
+"KEZ24.CBT","KC HRW Wheat Futures,Dec-2024",,"CBT",true
+"KEK23.CBT","KC HRW Wheat Futures,May-2023",,"CBT",true
+"KEU23.CBT","KC HRW Wheat Futures,Sep-2023",,"CBT",true
+"QOQ23.CMX","E-mini Gold Futures,Aug-2023",,"CMX",true
+"F*GCT.CMX","Gold TAS Futures,Apr-2023",,"CMX",true
+"SIH24.CMX","Silver Mar 24",,"CMX",true
+"F*QO.CMX","E-mini Gold Futures,Apr-2023",,"CMX",true
+"QIU23.CMX","E-mini Silver Futures,Sep-2023",,"CMX",true
+"SILN23.CMX","Micro Silver Futures,Jul-2023",,"CMX",true
+"KEN23.CBT","KC HRW Wheat Futures,Jul-2023",,"CBT",true
+"YMTH23.CBT","BTIC E-mini DJIA Futures,Mar-20",,"CBT",true
+"SIN23.CMX","Silver Jul 23",,"CMX",true
+"F*MGC.CMX","Micro Gold Futures,Apr-2023",,"CMX",true
+"ZSH24.CBT","Soybean Futures,Mar-2024",,"CBT",true
+"SILJ23.CMX","Micro Silver Futures,Apr-2023",,"CMX",true
+"F*SIL.CMX","Micro Silver Futures,Mar-2023",,"CMX",true
+"MGCQ23.CMX","Micro Gold Futures,Aug-2023",,"CMX",true
+"HGN24.CMX","Copper Jul 24",,"CMX",true
+"QCJ23.CMX","E-mini Copper Futures,Apr-2023",,"CMX",true
+"ZRK23.CBT","Rough Rice Futures,May-2023",,"CBT",true
+"ZMU24.CBT","Soybean Meal Futures,Sep-2024",,"CBT",true
+"F*QC.CMX","E-mini Copper Futures,May-2023",,"CMX",true
+"QOM23.CMX","E-mini Gold Futures,Jun-2023",,"CMX",true
+"SIU23.CMX","Silver Sep 23",,"CMX",true
+"SR1U23.CME","One-Month SOFR Futures,Sep-2023",,"CME",true
+"GEU28.CME","Eurodollar Futures,Sep-2028",,"CME",true
+"F*ZMT.CBT","Soybean Meal TAS Futures,May-20",,"CBT",true
+"F*GE.CME","Eurodollar Futures,May-2023",,"CME",true
+"SR1H23.CME","One-Month SOFR Futures,Mar-2023",,"CME",true
+"NGU25.NYM","Natural Gas Sep 25",,"NYM",true
+"DCF24.CME","Class III Milk Futures,Jan-2024",,"CME",true
+"6MM23.CME","Mexican Peso Futures,Jun-2023",,"CME",true
+"6BZ23.CME","British Pound Futures,Dec-2023",,"CME",true
+"6BM23.CME","British Pound Futures,Jun-2023",,"CME",true
+"M6CH23.CME","Micro USD/CAD Futures,Mar-2023",,"CME",true
+"HEZ23.CME","Lean Hogs Futures,Dec-2023",,"CME",true
+"6CU23.CME","Canadian Dollar Futures,Sep-202",,"CME",true
+"6LK23.CME","Brazilian Real Futures,May-2023",,"CME",true
+"F*M6B.CME","Micro GBP/USD Futures,Jun-2023",,"CME",true
+"MBTN23.CME","Micro Bitcoin Futures,Jul-2023",,"CME",true
+"NIYM23.CME","Nikkei/Yen Futures,Jun-2023",,"CME",true
+"SEKH23.CME","Swedish Krona Futures,Mar-2023",,"CME",true
+"METK23.CME","Micro Ether Futures,May-2023",,"CME",true
+"F*6L.CME","Brazilian Real Futures,Apr-2023",,"CME",true
+"M6BM23.CME","Micro GBP/USD Futures,Jun-2023",,"CME",true
+"NOKH23.CME","Norwegian Krone Futures,Mar-202",,"CME",true
+"MCDH23.CME","Micro CAD/USD Futures,Mar-2023",,"CME",true
+"DCM23.CME","Class III Milk Futures,Jun-2023",,"CME",true
+"M2KU23.CME","Micro E-mini Russell 2000 Index",,"CME",true
+"F*SEK.CME","Swedish Krona Futures,Jun-2023",,"CME",true
+"ETHM23.CME","Ether Futures,Jun-2023",,"CME",true
+"SIRH23.CME","Indian Rupee/USD Futures,Mar-20",,"CME",true
+"M2KZ23.CME","Micro E-mini Russell 2000 Index",,"CME",true
+"HOK24.NYM","Heating Oil May 24",,"NYM",true
+"F*MSF.CME","Micro CHF/USD Futures,Mar-2023",,"CME",true
+"GNFZ23.CME","Nonfat Dry Milk Futures,Dec-202",,"CME",true
+"F*LET.CME","Live Cattle TAS Futures,Jun-202",,"CME",true
+"M6EM23.CME","Micro EUR/USD Futures,Jun-2023",,"CME",true
+"RBH24.NYM","RBOB Gasoline Mar 24",,"NYM",true
+"KRWH23.CME","Korean Won Futures,Mar-2023",,"CME",true
+"RBF24.NYM","RBOB Gasoline Jan 24",,"NYM",true
+"HOU24.NYM","Heating Oil Sep 24",,"NYM",true
+"RBV23.NYM","RBOB Gasoline Oct 23",,"NYM",true
+"F*NKD.CME","Nikkei/USD Futures,Mar-2023",,"CME",true
+"F*RB.NYM","RBOB Gasoline Apr 23",,"NYM",true
+"RBK23.NYM","RBOB Gasoline May 23",,"NYM",true
+"HOZ25.NYM","Heating Oil Dec 25",,"NYM",true
+"NGU24.NYM","Natural Gas Sep 24",,"NYM",true
+"RBM23.NYM","RBOB Gasoline Jun 23",,"NYM",true
+"F*SR3.CME","Three-Month SOFR Futures,Mar-20",,"CME",true
+"SR3Z24.CME","Three-Month SOFR Futures,Dec-20",,"CME",true
+"NGJ24.NYM","Natural Gas Apr 24",,"NYM",true
+"RBM24.NYM","RBOB Gasoline Jun 24",,"NYM",true
+"SR3M26.CME","Three-Month SOFR Futures,Jun-20",,"CME",true
+"SR3F23.CME","Three-Month SOFR Futures,Jan-20",,"CME",true
+"CLN23.NYM","Crude Oil Jul 23",,"NYM",true
+"HGH23.CMX","Copper Mar 23",,"CMX",true
+"MGCV23.CMX","Micro Gold Futures,Oct-2023",,"CMX",true
+"SR3M28.CME","Three-Month SOFR Futures,Jun-20",,"CME",true
+"ZSU23.CBT","Soybean Futures,Sep-2023",,"CBT",true
+"CLM25.NYM","Crude Oil Jun 25",,"NYM",true
+"CLZ24.NYM","Crude Oil Dec 24",,"NYM",true
+"QIN23.CMX","E-mini Silver Futures,Jul-2023",,"CMX",true
+"ZLU24.CBT","Soybean Oil Futures,Sep-2024",,"CBT",true
+"ZCU23.CBT","Corn Futures,Sep-2023",,"CBT",true
+"SEDH26.CME","SED Future MAR 2026 Trading Ses",,"CME",true
+"DXU23.NYB","US Dollar Sep 23",,"NYB",true
+"KCU24.NYB","Coffee Sep 24",,"NYB",true
+"SBN24.NYB","Sugar #11 Jul 24",,"NYB",true
+"XCZ23.CBT","Mini-Corn Futures,Dec-2023",,"CBT",true
+"XCZ24.CBT","Mini-Corn Futures,Dec-2024",,"CBT",true
+"XCU23.CBT","Mini-Corn Futures,Sep-2023",,"CBT",true
+"CTV23.NYB","Cotton Oct 23",,"NYB",true
+"XCZ25.CBT","Mini-Corn Futures,Dec-2025",,"CBT",true
+"CLTX23.NYM","Crude Oil TAS Futures,Nov-2023",,"NYM",true
+"GDKZ23.CME","Class IV Milk Futures,Dec-2023",,"CME",true
+"CLTM24.NYM","Crude Oil TAS Futures,Jun-2024",,"NYM",true
+"BLKJ23.CME","Block Cheese Futures,Apr-2023",,"CME",true
+"RBTM23.NYM","RBOB TAS Futures,Jun-2023",,"NYM",true
+"QMJ23.NYM","E-mini Crude Oil Futures,Apr-20",,"NYM",true
+"GFTJ23.CME","Feeder Cattle TAS Futures,Apr-2",,"CME",true
+"QMX23.NYM","E-mini Crude Oil Futures,Nov-20",,"NYM",true
+"QMV23.NYM","E-mini Crude Oil Futures,Oct-20",,"NYM",true
+"LETQ23.CME","Live Cattle TAS Futures,Aug-202",,"CME",true
+"F*CT.NYB","Cotton Jul 23",,"NYB",true
+"LBRH23.CME","Lumber Futures,Mar-2023",,"CME",true
+"CLTU23.NYM","Crude Oil TAS Futures,Sep-2023",,"NYM",true
+"CLTZ23.NYM","Crude Oil TAS Futures,Dec-2023",,"NYM",true
+"ZSEA-H23.SI","SEA ADR Futures, March 2023, T ",,"SES",true
+"CLTK23.NYM","Crude Oil TAS Futures,May-2023",,"NYM",true
+"CLTJ23.NYM","Crude Oil TAS Futures,Apr-2023",,"NYM",true
+"ZWN24.CBT","Chicago SRW Wheat Futures,Jul-2",,"CBT",true
+"KEH23.CBT","KC HRW Wheat Futures,Mar-2023",,"CBT",true
+"ZSN24.CBT","Soybean Futures,Jul-2024",,"CBT",true
+"F*KE.CBT","KC HRW Wheat Futures,Mar-2023",,"CBT",true
+"QCN23.CMX","E-mini Copper Futures,Jul-2023",,"CMX",true
+"F*QI.CMX","E-mini Silver Futures,May-2023",,"CMX",true
+"KEH24.CBT","KC HRW Wheat Futures,Mar-2024",,"CBT",true
+"HGJ23.CMX","Copper Apr 23",,"CMX",true
+"SIZ23.CMX","Silver Dec 23",,"CMX",true
+"HGV23.CMX","Copper Oct 23",,"CMX",true
+"F*MHG.CMX","Micro Copper Futures,May-2023",,"CMX",true
+"F*KET.CBT","KC HRW Wheat TAS Futures,Jul-20",,"CBT",true
+"ZCU24.CBT","Corn Futures,Sep-2024",,"CBT",true
+"ZLZ25.CBT","Soybean Oil Futures,Dec-2025",,"CBT",true
+"F*ZW.CBT","Chicago SRW Wheat Futures,May-2",,"CBT",true
+"MGCJ24.CMX","Micro Gold Futures,Apr-2024",,"CMX",true
+"SILH23.CMX","Micro Silver Futures,Mar-2023",,"CMX",true
+"SR1K23.CME","One-Month SOFR Futures,May-2023",,"CME",true
+"GEH27.CME","Eurodollar Futures,Mar-2027",,"CME",true
+"F*PL.NYM","Platinum Apr 23",,"NYM",true
+"GEM27.CME","Eurodollar Futures,Jun-2027",,"CME",true
+"GEZ28.CME","Eurodollar Futures,Dec-2028",,"CME",true
+"GEZ26.CME","Eurodollar Futures,Dec-2026",,"CME",true
+"GEU26.CME","Eurodollar Futures,Sep-2026",,"CME",true
+"GEK23.CME","Eurodollar Futures,May-2023",,"CME",true
+"SR1X23.CME","One-Month SOFR Futures,Nov-2023",,"CME",true
+"GEU29.CME","Eurodollar Futures,Sep-2029",,"CME",true
+"SR1J23.CME","One-Month SOFR Futures,Apr-2023",,"CME",true
+"HOX24.NYM","Heating Oil Nov 24",,"NYM",true
+"ETHJ23.CME","Ether Futures,Apr-2023",,"CME",true
+"MSFM23.CME","Micro CHF/USD Futures,Jun-2023",,"CME",true
+"RLTH23.CME","BTIC on E-mini Russell 2000 Ind",,"CME",true
+"GNFM23.CME","Nonfat Dry Milk Futures,Jun-202",,"CME",true
+"GFF24.CME","Feeder Cattle Futures,Jan-2024",,"CME",true
+"DYH23.CME","Dry Whey Futures,Mar-2023",,"CME",true
+"F*6C.CME","Canadian Dollar Futures,Jun-202",,"CME",true
+"6AM23.CME","Australian Dollar Futures,Jun-2",,"CME",true
+"M6JH23.CME","Micro USD/JPY Futures,Mar-2023",,"CME",true
+"MBTK23.CME","Micro Bitcoin Futures,May-2023",,"CME",true
+"F*M6J.CME","Micro USD/JPY Futures,Jun-2023",,"CME",true
+"RTYU23.CME","E-mini Russell 2000 Index Futur",,"CME",true
+"HOV23.NYM","Heating Oil Oct 23",,"NYM",true
+"HOH24.NYM","Heating Oil Mar 24",,"NYM",true
+"METM23.CME","Micro Ether Futures,Jun-2023",,"CME",true
+"F*M2K.CME","Micro E-mini Russell 2000 Index",,"CME",true
+"LEV23.CME","Live Cattle Futures,Oct-2023",,"CME",true
+"RTQH23.CME","TACO on E-mini Russel 2000 Futu",,"CME",true
+"HOX23.NYM","Heating Oil Nov 23",,"NYM",true
+"F*GNF.CME","Nonfat Dry Milk Futures,Apr-202",,"CME",true
+"GFX23.CME","Feeder Cattle Futures,Nov-2023",,"CME",true
+"DYM23.CME","Dry Whey Futures,Jun-2023",,"CME",true
+"6MK23.CME","Mexican Peso Futures,May-2023",,"CME",true
+"6EH24.CME","Euro FX Futures,Mar-2024",,"CME",true
+"RBG24.NYM","RBOB Gasoline Feb 24",,"NYM",true
+"RBJ25.NYM","RBOB Gasoline Apr 25",,"NYM",true
+"F*RTY.CME","E-mini Russell 2000 Index Futur",,"CME",true
+"LBRN23.CME","Lumber Futures,Jul-2023",,"CME",true
+"SR3H25.CME","Three-Month SOFR Futures,Mar-20",,"CME",true
+"NGQ24.NYM","Natural Gas Aug 24",,"NYM",true
+"SR3U24.CME","Three-Month SOFR Futures,Sep-20",,"CME",true
+"NGV25.NYM","Natural Gas Oct 25",,"NYM",true
+"F*OJ.NYB","Orange Juice Mar 23",,"NYB",true
+"ZCN24.CBT","Corn Futures,Jul-2024",,"CBT",true
+"ZRX23.CBT","Rough Rice Futures,Nov-2023",,"CBT",true
+"SEDH27.CME","SED Future MAR 2027 Trading Ses",,"CME",true
+"F*KZY.NYB","CHF/JPY 250 - NYCC - Mar23",,"NYB",true
+"ALIQ23.CMX","Aluminum Futures,Aug-2023",,"CMX",true
+"F*YMT.CBT","BTIC E-mini DJIA Futures,Mar-20",,"CBT",true
+"F*ZCT.CBT","Corn TAS Futures,Jul-2023",,"CBT",true
+"ZCZ25.CBT","Corn Futures,Dec-2025",,"CBT",true
+"QIK23.CMX","E-mini Silver Futures,May-2023",,"CMX",true
+"ZMN24.CBT","Soybean Meal Futures,Jul-2024",,"CBT",true
+"F*CLT.NYM","Crude Oil TAS Futures,Jun-2023",,"NYM",true
+"GDKK23.CME","Class IV Milk Futures,May-2023",,"CME",true
+"SR3Z22.CME","Three-Month SOFR Futures,Dec-20",,"CME",true
+"NK-H23.SI","NIKKEI 225 INDEX FUTURES, March",,"SES",true
+"NK-U23.SI","NIKKEI 225 INDEX FUTURES, Septe",,"SES",true
+"SBK25.NYB","Sugar #11 May 25",,"NYB",true
+"CLQ23.NYM","Crude Oil Aug 23",,"NYM",true
+"BLKM23.CME","Block Cheese Futures,Jun-2023",,"CME",true
+"NGJ26.NYM","Natural Gas Apr 26",,"NYM",true
+"6AH23.CME","Australian Dollar Futures,Mar-2",,"CME",true
+"HOF25.NYM","Heating Oil Jan 25",,"NYM",true
+"NQU23.CME","Nasdaq 100 Sep 23",,"CME",true
+"E7H23.CME","E-mini Euro FX Futures,Mar-2023",,"CME",true
+"DYJ23.CME","Dry Whey Futures,Apr-2023",,"CME",true
+"DCQ23.CME","Class III Milk Futures,Aug-2023",,"CME",true
+"6LM23.CME","Brazilian Real Futures,Jun-2023",,"CME",true
+"6SH23.CME","Swiss Franc Futures,Mar-2023",,"CME",true
+"GDKM23.CME","Class IV Milk Futures,Jun-2023",,"CME",true
+"DCX23.CME","Class III Milk Futures,Nov-2023",,"CME",true
+"DCZ23.CME","Class III Milk Futures,Dec-2023",,"CME",true
+"XKF24.CBT","Mini Soybean Futures,Jan-2024",,"CBT",true
+"HOTN23.NYM","NY Harbor ULSD TAS,Jul-2023",,"NYM",true
+"QMQ23.NYM","E-mini Crude Oil Futures,Aug-20",,"NYM",true
+"F*ZR.CBT","Rough Rice Futures,Mar-2023",,"CBT",true
+"GEU23.CME","Eurodollar Futures,Sep-2023",,"CME",true
+"GEZ23.CME","Eurodollar Futures,Dec-2023",,"CME",true
+"SEDM24.CME","SED Future JUN 2024 Trading Ses",,"CME",true
+"KCU23.NYB","Coffee Sep 23",,"NYB",true
+"KCN24.NYB","Coffee Jul 24",,"NYB",true
+"XCN23.CBT","Mini-Corn Futures,Jul-2023",,"CBT",true
+"LETM23.CME","Live Cattle TAS Futures,Jun-202",,"CME",true
+"CLQ26.NYM","Crude Oil Aug 26",,"NYM",true
+"CLU26.NYM","Crude Oil Sep 26",,"NYM",true
+"QMU23.NYM","E-mini Crude Oil Futures,Sep-20",,"NYM",true
+"KCN23.NYB","Coffee Jul 23",,"NYB",true
+"ZWN23.CBT","Chicago SRW Wheat Futures,Jul-2",,"CBT",true
+"KEZ23.CBT","KC HRW Wheat Futures,Dec-2023",,"CBT",true
+"MGCM23.CMX","Micro Gold Futures,Jun-2023",,"CMX",true
+"ZMK24.CBT","Soybean Meal Futures,May-2024",,"CBT",true
+"MGCZ24.CMX","Micro Gold Futures,Dec-2024",,"CMX",true
+"QCK23.CMX","E-mini Copper Futures,May-2023",,"CMX",true
+"F*BTC.CME","Bitcoin Futures,Mar-2023",,"CME",true
+"6LJ23.CME","Brazilian Real Futures,Apr-2023",,"CME",true
+"6CH24.CME","Canadian Dollar Futures,Mar-202",,"CME",true
+"METJ23.CME","Micro Ether Futures,Apr-2023",,"CME",true
+"M6SH23.CME","Micro USD/CHF Futures,Mar-2023",,"CME",true
+"F*DY.CME","Dry Whey Futures,Mar-2023",,"CME",true
+"GNFX23.CME","Nonfat Dry Milk Futures,Nov-202",,"CME",true
+"DYK23.CME","Dry Whey Futures,May-2023",,"CME",true
+"RBZ24.NYM","RBOB Gasoline Dec 24",,"NYM",true
+"GNFN23.CME","Nonfat Dry Milk Futures,Jul-202",,"CME",true
+"F*6M.CME","Mexican Peso Futures,Mar-2023",,"CME",true
+"GNFJ23.CME","Nonfat Dry Milk Futures,Apr-202",,"CME",true
+"HOG24.NYM","Heating Oil Feb 24",,"NYM",true
+"F*LBR.CME","Lumber Futures,Mar-2023",,"CME",true
+"MBTZ23.CME","Micro Bitcoin Futures,Dec-2023",,"CME",true
+"LEZ23.CME","Live Cattle Futures,Dec-2023",,"CME",true
+"HOU23.NYM","Heating Oil Sep 23",,"NYM",true
+"F*NOK.CME","Norwegian Krone Futures,Jun-202",,"CME",true
+"F*M6S.CME","Micro USD/CHF Futures,Mar-2023",,"CME",true
+"F*HO.NYM","Heating Oil Apr 23",,"NYM",true
+"SR3Z28.CME","Three-Month SOFR Futures,Dec-20",,"CME",true
+"HON24.NYM","Heating Oil Jul 24",,"NYM",true
+"RBU23.NYM","RBOB Gasoline Sep 23",,"NYM",true
+"NGF25.NYM","Natural Gas Jan 25",,"NYM",true
+"NGK25.NYM","Natural Gas May 25",,"NYM",true
+"SR3U25.CME","Three-Month SOFR Futures,Sep-20",,"CME",true
+"NGM24.NYM","Natural Gas Jun 24",,"NYM",true
+"SR3H28.CME","Three-Month SOFR Futures,Mar-20",,"CME",true
+"SR3Z23.CME","Three-Month SOFR Futures,Dec-20",,"CME",true
+"SR3Z26.CME","Three-Month SOFR Futures,Dec-20",,"CME",true
+"SR3Z27.CME","Three-Month SOFR Futures,Dec-20",,"CME",true
+"CLM24.NYM","Crude Oil Jun 24",,"NYM",true
+"F*ZM.CBT","Soybean Meal Futures,Mar-2023",,"CBT",true
+"MGCG24.CMX","Micro Gold Futures,Feb-2024",,"CMX",true
+"F*HG.CMX","Copper May 23",,"CMX",true
+"OJU23.NYB","Orange Juice Sep 23",,"NYB",true
+"OJH23.NYB","Orange Juice Mar 23",,"NYB",true
+"KCZ24.NYB","Coffee Dec 24",,"NYB",true
+"OJX23.NYB","Orange Juice Nov 23",,"NYB",true
+"CTN24.NYB","Cotton Jul 24",,"NYB",true
+"ZON23.CBT","Oat Futures,Jul-2023",,"CBT",true
+"SBV24.NYB","Sugar #11 Oct 24",,"NYB",true
+"SITK23.CMX","Silver TAS Futures,May-2023",,"CMX",true
+"CTK24.NYB","Cotton May 24",,"NYB",true
+"KETK23.CBT","KC HRW Wheat TAS Futures,May-20",,"CBT",true
+"HOTK23.NYM","NY Harbor ULSD TAS,May-2023",,"NYM",true
+"XCK24.CBT","Mini-Corn Futures,May-2024",,"CBT",true
+"CLTM23.NYM","Crude Oil TAS Futures,Jun-2023",,"NYM",true
+"CLTQ23.NYM","Crude Oil TAS Futures,Aug-2023",,"NYM",true
+"HGTN23.CMX","Copper TAS Futures,Jul-2023",,"CMX",true
+"SEDU26.CME","SED Future SEP 2026 Trading Ses",,"CME",true
+"BLKK23.CME","Block Cheese Futures,May-2023",,"CME",true
+"CLG24.NYM","Crude Oil Feb 24",,"NYM",true
+"F*QM.NYM","E-mini Crude Oil Futures,Apr-20",,"NYM",true
+"CLQ24.NYM","Crude Oil Aug 24",,"NYM",true
+"XKQ23.CBT","Mini Soybean Futures,Aug-2023",,"CBT",true
+"GDKU23.CME","Class IV Milk Futures,Sep-2023",,"CME",true
+"CT-ZZ23.NYB","Cotton No. 2 TAS - NYCC - Dec23",,"NYB",true
+"ZMTZ23.CBT","Soybean Meal TAS Futures,Dec-20",,"CBT",true
+"RBTK23.NYM","RBOB TAS Futures,May-2023",,"NYM",true
+"CLN24.NYM","Crude Oil Jul 24",,"NYM",true
+"ALIK23.CMX","Aluminum Futures,May-2023",,"CMX",true
+"ZLV24.CBT","Soybean Oil Futures,Oct-2024",,"CBT",true
+"F*ZC.CBT","Corn Futures,May-2023",,"CBT",true
+"KEK24.CBT","KC HRW Wheat Futures,May-2024",,"CBT",true
+"HGK24.CMX","Copper May 24",,"CMX",true
+"ZRN23.CBT","Rough Rice Futures,Jul-2023",,"CBT",true
+"MHGK23.CMX","Micro Copper Futures,May-2023",,"CMX",true
+"GEH28.CME","Eurodollar Futures,Mar-2028",,"CME",true
+"SR1V23.CME","One-Month SOFR Futures,Oct-2023",,"CME",true
+"ZWU24.CBT","Chicago SRW Wheat Futures,Sep-2",,"CBT",true
+"MGCJ23.CMX","Micro Gold Futures,Apr-2023",,"CMX",true
+"MGCZ23.CMX","Micro Gold Futures,Dec-2023",,"CMX",true
+"QIZ23.CMX","E-mini Silver Futures,Dec-2023",,"CMX",true
+"MHGU23.CMX","Micro Copper Futures,Sep-2023",,"CMX",true
+"SR1F24.CME","One-Month SOFR Futures,Jan-2024",,"CME",true
+"F*PLT.NYM","Platinum TAS Futures,Apr-2023",,"NYM",true
+"F*ZL.CBT","Soybean Oil Futures,Mar-2023",,"CBT",true
+"GEZ24.CME","Eurodollar Futures,Dec-2024",,"CME",true
+"GEU25.CME","Eurodollar Futures,Sep-2025",,"CME",true
+"GEM25.CME","Eurodollar Futures,Jun-2025",,"CME",true
+"SR1N23.CME","One-Month SOFR Futures,Jul-2023",,"CME",true
+"NGJ25.NYM","Natural Gas Apr 25",,"NYM",true
+"M6AH23.CME","Micro AUD/USD Futures,Mar-2023",,"CME",true
+"LEG24.CME","Live Cattle Futures,Feb-2024",,"CME",true
+"DCK23.CME","Class III Milk Futures,May-2023",,"CME",true
+"F*ETH.CME","Ether Futures,Mar-2023",,"CME",true
+"MBTM23.CME","Micro Bitcoin Futures,Jun-2023",,"CME",true
+"PRKM23.CME","Pork Cutout Futures,Jun-2023",,"CME",true
+"GNFK23.CME","Nonfat Dry Milk Futures,May-202",,"CME",true
+"F*M6E.CME","Micro EUR/USD Futures,Jun-2023",,"CME",true
+"F*RF.CME","Euro/Swiss Franc Futures,Mar-20",,"CME",true
+"F*M6C.CME","Micro USD/CAD Futures,Mar-2023",,"CME",true
+"6EU23.CME","Euro FX Futures,Sep-2023",,"CME",true
+"6AU23.CME","Australian Dollar Futures,Sep-2",,"CME",true
+"6SZ23.CME","Swiss Franc Futures,Dec-2023",,"CME",true
+"F*DC.CME","Class III Milk Futures,Jun-2023",,"CME",true
+"BTCM23.CME","Bitcoin Futures,Jun-2023",,"CME",true
+"6SU23.CME","Swiss Franc Futures,Sep-2023",,"CME",true
+"MSFH23.CME","Micro CHF/USD Futures,Mar-2023",,"CME",true
+"F*MCD.CME","Micro CAD/USD Futures,Jun-2023",,"CME",true
+"SR3H24.CME","Three-Month SOFR Futures,Mar-20",,"CME",true
+"GFK23.CME","Feeder Cattle Futures,May-2023",,"CME",true
+"HOM24.NYM","Heating Oil Jun 24",,"NYM",true
+"HON23.NYM","Heating Oil Jul 23",,"NYM",true
+"HOH25.NYM","Heating Oil Mar 25",,"NYM",true
+"SR3H23.CME","Three-Month SOFR Futures,Mar-20",,"CME",true
+"HOV24.NYM","Heating Oil Oct 24",,"NYM",true
+"NGG25.NYM","Natural Gas Feb 25",,"NYM",true
+"SR3U26.CME","Three-Month SOFR Futures,Sep-20",,"CME",true
+"SR3M25.CME","Three-Month SOFR Futures,Jun-20",,"CME",true
+"NGN25.NYM","Natural Gas Jul 25",,"NYM",true
+"HOQ23.NYM","Heating Oil Aug 23",,"NYM",true
+"NGN24.NYM","Natural Gas Jul 24",,"NYM",true
+"RBQ23.NYM","RBOB Gasoline Aug 23",,"NYM",true
+"SR3H27.CME","Three-Month SOFR Futures,Mar-20",,"CME",true
+"HGM23.CMX","Copper Jun 23",,"CMX",true
+"F*KC.NYB","Coffee May 23",,"NYB",true
+"NGK24.NYM","Natural Gas May 24",,"NYM",true
+"HGU23.CMX","Copper Sep 23",,"CMX",true
+"QMN23.NYM","E-mini Crude Oil Futures,Jul-20",,"NYM",true
+"ZSK24.CBT","Soybean Futures,May-2024",,"CBT",true
+"SEDZ27.CME","SED Future DEC 2027 Trading Ses",,"CME",true
+"NS-M23.SI","MINI NIKKEI 225 INDEX FUTURES, ",,"SES",true
+"SEDM27.CME","SED Future JUN 2027 Trading Ses",,"CME",true
+"ZLTZ23.CBT","Soybean Oil TAS Futures,Dec-202",,"CBT",true
+"SEDU24.CME","SED Future SEP 2024 Trading Ses",,"CME",true
+"CLTH24.NYM","Crude Oil TAS Futures,Mar-2024",,"NYM",true
+"ZICI-H23.SI","ICICI Bank FUT, March 2023, T s",,"SES",true
+"ZGRA-H23.SI","Grab Futures, March 2023, T ses",,"SES",true
+"ZITC-H23.SI","ITC FUT, March 2023, T session",,"SES",true
+"KZYM23.NYB","CHF/JPY 250 - NYCC - Jun23",,"NYB",true
+"F*PAT.NYM","Palladium TAS,Jun-2023",,"NYM",true
+"PAT=F","Palladium TAS,Jun-2023",,"NYM",true
+"YMTM23.CBT","BTIC E-mini DJIA Futures,Jun-20",,"CBT",true
+"HETQ23.CME","Lean Hogs TAS Futures,Aug-2023",,"CME",true
+"NU-M23.SI","USD NIKKEI 225 INDEX FUTURES, J",,"SES",true
+"SIRJ23.CME","Indian Rupee/USD Futures,Apr-20",,"CME",true
+"MIRH23.CME","Micro INR/USD Futures,Mar-2023",,"CME",true
+"PRKV23.CME","Pork Cutout Futures,Oct-2023",,"CME",true
+"LEM24.CME","Live Cattle Futures,Jun-2024",,"CME",true
+"NNEJ24.NYM","NNE Future APR 2024 Trading Ses",,"NYM",true
+"6AK23.CME","Australian Dollar Futures,May-2",,"CME",true
+"HEJ24.CME","Lean Hogs Futures,Apr-2024",,"CME",true
+"6BJ23.CME","British Pound Futures,Apr-2023",,"CME",true
+"GNFQ23.CME","Nonfat Dry Milk Futures,Aug-202",,"CME",true
+"SR3J23.CME","Three-Month SOFR Futures,Apr-20",,"CME",true
+"ETHK23.CME","Ether Futures,May-2023",,"CME",true
+"M6CM23.CME","Micro USD/CAD Futures,Jun-2023",,"CME",true
+"HG0=F","Copper Spot TAS Futures,Mar-202",,"CMX",true
+"HG0H23.CMX","Copper Spot TAS Futures,Mar-202",,"CMX",true
+"SEDZ26.CME","SED Future DEC 2026 Trading Ses",,"CME",true
+"ZCTU23.CBT","Corn TAS Futures,Sep-2023",,"CBT",true
+"LETV23.CME","Live Cattle TAS Futures,Oct-202",,"CME",true
+"SEDM25.CME","SED Future JUN 2025 Trading Ses",,"CME",true
+"NK-J23.SI","NIKKEI 225 INDEX FUTURES, April",,"SES",true
+"YTBE-H23.SI","Thai Beverage Futures, March 20",,"SES",true
+"KZYH23.NYB","CHF/JPY 250 - NYCC - Mar23",,"NYB",true
+"SEDH25.CME","SED Future MAR 2025 Trading Ses",,"CME",true
+"SEDM26.CME","SED Future JUN 2026 Trading Ses",,"CME",true
+"SITU23.CMX","Silver TAS Futures,Sep-2023",,"CMX",true
+"ZCTH24.CBT","Corn TAS Futures,Mar-2024",,"CBT",true
+"XKU23.CBT","Mini Soybean Futures,Sep-2023",,"CBT",true
+"ZMTQ23.CBT","Soybean Meal TAS Futures,Aug-20",,"CBT",true
+"SBTU23.CBT","Soybean TAS Futures,Sep-2023",,"CBT",true
+"PATM23.NYM","Palladium TAS,Jun-2023",,"NYM",true
+"GFTK23.CME","Feeder Cattle TAS Futures,May-2",,"CME",true
+"HGSJ23.CMX","Copper Financial Futures,Apr-20",,"CMX",true
+"HGQ24.CMX","Copper Aug 24",,"CMX",true
+"SR1G24.CME","One-Month SOFR Futures,Feb-2024",,"CME",true
+"SR1H24.CME","One-Month SOFR Futures,Mar-2024",,"CME",true
+"F*SBT.CBT","Soybean TAS Futures,Aug-2023",,"CBT",true
+"RBJ26.NYM","RBOB Gasoline Apr 26",,"NYM",true
+"F*RTQ.CME","TACO on E-mini Russel 2000 Futu",,"CME",true
+"MBTZ24.CME","Micro Bitcoin Futures,Dec-2024",,"CME",true
+"SR3H29.CME","Three-Month SOFR Futures,Mar-20",,"CME",true
+"SR3K23.CME","Three-Month SOFR Futures,May-20",,"CME",true
+"ZCTZ23.CBT","Corn TAS Futures,Dec-2023",,"CBT",true
+"XCH24.CBT","Mini-Corn Futures,Mar-2024",,"CBT",true
+"SBTQ23.CBT","Soybean TAS Futures,Aug-2023",,"CBT",true
+"HETN23.CME","Lean Hogs TAS Futures,Jul-2023",,"CME",true
+"BLKF24.CME","Block Cheese Futures,Jan-2024",,"CME",true
+"ZWPR-H23.SI","Wipro FUT, March 2023, T sessio",,"SES",true
+"ZHCL-H23.SI","HCL Technologies FUT, March 202",,"SES",true
+"ZBJA-H23.SI","Bajaj Auto FUT, March 2023, T s",,"SES",true
+"ZLT-H23.SI","Larsen & Toubro FUT, March 2023",,"SES",true
+"ZMTN23.CBT","Soybean Meal TAS Futures,Jul-20",,"CBT",true
+"F*PRK.CME","Pork Cutout Futures,Jun-2023",,"CME",true
+"MBTU23.CME","Micro Bitcoin Futures,Sep-2023",,"CME",true
+"RLTM23.CME","BTIC on E-mini Russell 2000 Ind",,"CME",true
+"M6SM23.CME","Micro USD/CHF Futures,Jun-2023",,"CME",true
+"NOKM23.CME","Norwegian Krone Futures,Jun-202",,"CME",true
+"F*RLT.CME","BTIC on E-mini Russell 2000 Ind",,"CME",true
+"HEM24.CME","Lean Hogs Futures,Jun-2024",,"CME",true
+"HOJ26.NYM","Heating Oil Apr 26",,"NYM",true
+"6MJ23.CME","Mexican Peso Futures,Apr-2023",,"CME",true
+"SEDH24.CME","SED Future MAR 2024 Trading Ses",,"CME",true
+"ZMTK23.CBT","Soybean Meal TAS Futures,May-20",,"CBT",true
+"ZLTK23.CBT","Soybean Oil TAS Futures,May-202",,"CBT",true
+"ZWH25.CBT","Chicago SRW Wheat Futures,Mar-2",,"CBT",true
+"GNFV23.CME","Nonfat Dry Milk Futures,Oct-202",,"CME",true
+"YSTT-H23.SI","Singtel Futures, March 2023, T ",,"SES",true
+"ZBHA-H23.SI","Bharti Airtel FUT, March 2023, ",,"SES",true
+"ZINF-H23.SI","Infosys FUT, March 2023, T sess",,"SES",true
+"LETZ23.CME","Live Cattle TAS Futures,Dec-202",,"CME",true
+"HGTU23.CMX","Copper TAS Futures,Sep-2023",,"CMX",true
+"6CK23.CME","Canadian Dollar Futures,May-202",,"CME",true
+"6BK23.CME","British Pound Futures,May-2023",,"CME",true
+"6AJ23.CME","Australian Dollar Futures,Apr-2",,"CME",true
+"PLTN23.NYM","Platinum TAS Futures,Jul-2023",,"NYM",true
+"XKH24.CBT","Mini Soybean Futures,Mar-2024",,"CBT",true
+"PLF24.NYM","Platinum Jan 24",,"NYM",true
+"CLTF24.NYM","Crude Oil TAS Futures,Jan-2024",,"NYM",true
+"6EK23.CME","Euro FX Futures,May-2023",,"CME",true
+"SEKM23.CME","Swedish Krona Futures,Jun-2023",,"CME",true
+"MBTH24.CME","Micro Bitcoin Futures,Mar-2024",,"CME",true
+"LEJ24.CME","Live Cattle Futures,Apr-2024",,"CME",true
+"HEG24.CME","Lean Hogs Futures,Feb-2024",,"CME",true
+"SR3U28.CME","Three-Month SOFR Futures,Sep-20",,"CME",true
+"SR3G23.CME","Three-Month SOFR Futures,Feb-20",,"CME",true
+"GCTQ23.CMX","Gold TAS Futures,Aug-2023",,"CMX",true
+"ZLTN23.CBT","Soybean Oil TAS Futures,Jul-202",,"CBT",true
+"HETM23.CME","Lean Hogs TAS Futures,Jun-2023",,"CME",true
+"GDKF24.CME","Class IV Milk Futures,Jan-2024",,"CME",true
+"HOTU23.NYM","NY Harbor ULSD TAS,Sep-2023",,"NYM",true
+"YDBS-H23.SI","DBS Futures, March 2023, T sess",,"SES",true
+"YGEN-H23.SI","Genting Futures, March 2023, T ",,"SES",true
+"YUOB-H23.SI","UOB Futures, March 2023, T sess",,"SES",true
+"ZSUN-H23.SI","Sun Pharm Ind FUT, March 2023, ",,"SES",true
+"ZCH25.CBT","Corn Futures,Mar-2025",,"CBT",true
+"MHGJ23.CMX","Micro Copper Futures,Apr-2023",,"CMX",true
+"F*HGT.CMX","Copper TAS Futures,Jul-2023",,"CMX",true
+"6CJ23.CME","Canadian Dollar Futures,Apr-202",,"CME",true
+"GNFU23.CME","Nonfat Dry Milk Futures,Sep-202",,"CME",true
+"NNEM24.NYM","NNE Future JUN 2024 Trading Ses",,"NYM",true
+"LEQ24.CME","Live Cattle Futures,Aug-2024",,"CME",true
+"E7M23.CME","E-mini Euro FX Futures,Jun-2023",,"CME",true
+"6BH24.CME","British Pound Futures,Mar-2024",,"CME",true
+"6CM24.CME","Canadian Dollar Futures,Jun-202",,"CME",true
+"HGJ24.CMX","Copper Apr 24",,"CMX",true
+"ZB=F","U.S. Treasury Bond Futures,Jun-",,"CBT",true
+"HRC=F","U.S. Midwest Domestic Hot-Rolle",,"CMX",true
+"RX=F","Dow Jones US Real Estate Index ",,"CBT",true
+"XAU=F","E-mini Utilities Select Sector ",,"CME",true
+"BTM=F","Bakkt BTC (USD) Monthly Future ",,"NYB",true
+"CNH=F","Standard-Size USD/Offshore RMB ",,"CME",true
+"UB=F","Ultra U.S. Treasury Bond Future",,"CBT",true
+"IBV=F","USD-Denominated Ibovespa Index ",,"CME",true
+"AUP=F","Aluminum MW U.S. Transaction Pr",,"CMX",true
+"USC=F","MSCI USA Small Cap GTR Index Fu",,"NYB",true
+"SGU=F","Shanghai Gold (USD) Futures,Apr",,"CMX",true
+"BUS=F","U.S. Midwest Busheling Ferrous ",,"CMX",true
+"QH=F","E-mini NY Harbor ULSD Futures,A",,"NYM",true
+"XUT=F","BTIC on E-mini Utilities Select",,"CME",true
+"VC=F","USD/CZK - NYCC - Mar23",,"NYB",true
+"USS=F","MSCI USA GTR Index Futures - IC",,"NYB",true
+"NT=F","USD/NOK - NYCC - Jun23",,"NYB",true
+"KX=F","USD/SEK - NYCC - Mar23",,"NYB",true
+"ZBM23.CBT","U.S. Treasury Bond Futures,Jun-",,"CBT",true
+"HRCK23.CMX","U.S. Midwest Domestic Hot-Rolle",,"CMX",true
+"SGUJ23.CMX","Shanghai Gold (USD) Futures,Apr",,"CMX",true
+"UBM23.CBT","Ultra U.S. Treasury Bond Future",,"CBT",true
+"F*AUP.CMX","Aluminum MW U.S. Transaction Pr",,"CMX",true
+"ZBU23.CBT","U.S. Treasury Bond Futures,Sep-",,"CBT",true
+"BUSM23.CMX","U.S. Midwest Busheling Ferrous ",,"CMX",true
+"BTMH23.NYB","Bakkt BTC (USD) Monthly Future ",,"NYB",true
+"UBH23.CBT","Ultra U.S. Treasury Bond Future",,"CBT",true
+"ZBH23.CBT","U.S. Treasury Bond Futures,Mar-",,"CBT",true
+"F*RX.CBT","Dow Jones US Real Estate Index ",,"CBT",true
+"HRCN23.CMX","U.S. Midwest Domestic Hot-Rolle",,"CMX",true
+"BUSJ23.CMX","U.S. Midwest Busheling Ferrous ",,"CMX",true
+"DX-ZH23.NYB","US Dollar Index TAS - NYCC - Ma",,"NYB",true
+"F*QH.NYM","E-mini NY Harbor ULSD Futures,A",,"NYM",true
+"BTMM23.NYB","Bakkt BTC (USD) Monthly Future ",,"NYB",true
+"RXH23.CBT","Dow Jones US Real Estate Index ",,"CBT",true
+"HRCZ23.CMX","U.S. Midwest Domestic Hot-Rolle",,"CMX",true
+"QHJ23.NYM","E-mini NY Harbor ULSD Futures,A",,"NYM",true
+"XAUH23.CME","E-mini Utilities Select Sector ",,"CME",true
+"F*UB.CBT","Ultra U.S. Treasury Bond Future",,"CBT",true
+"F*VC.NYB","USD/CZK - NYCC - Mar23",,"NYB",true
+"HRCH23.CMX","U.S. Midwest Domestic Hot-Rolle",,"CMX",true
+"HRCX23.CMX","U.S. Midwest Domestic Hot-Rolle",,"CMX",true
+"ZRM23.NYB","USD/ZAR - NYCC - Jun23",,"NYB",true
+"BUSH23.CMX","U.S. Midwest Busheling Ferrous ",,"CMX",true
+"F*ZB.CBT","U.S. Treasury Bond Futures,Jun-",,"CBT",true
+"F*BTM.NYB","Bakkt BTC (USD) Monthly Future ",,"NYB",true
+"IBVJ23.CME","USD-Denominated Ibovespa Index ",,"CME",true
+"ENK=F","Euro/Norwegian Krone Futures,Ma",,"CME",true
+"ESK=F","Euro/Swedish Krona Futures,Mar-",,"CME",true
+"F*ENK.CME","Euro/Norwegian Krone Futures,Ma",,"CME",true
+"F*ESK.CME","Euro/Swedish Krona Futures,Mar-",,"CME",true
+"ZKMB-H23.SI","Kotak Mahindra Bank FUT, March ",,"SES",true
+"ESKH23.CME","Euro/Swedish Krona Futures,Mar-",,"CME",true
+"ESKM23.CME","Euro/Swedish Krona Futures,Jun-",,"CME",true
+"ENKM23.CME","Euro/Norwegian Krone Futures,Ju",,"CME",true
+"ENKH23.CME","Euro/Norwegian Krone Futures,Ma",,"CME",true
+"MYM=F","Micro E-mini Dow Jones Industri",,"CBT",true
+"JPP=F","MSCI Japan NTR Index Futures - ",,"NYB",true
+"KEO=F","EUR/USD 125 - NYCC - Jun23",,"NYB",true
+"PLE=F","PLN/EUR - NYCC - Jun23",,"NYB",true
+"KEJ=F","EUR/JPY 125 - NYCC - Jun23",,"NYB",true
+"HR=F","EUR/HUF - NYCC - Jun23",,"NYB",true
+"ASI=F","MSCI AC Asia ex Japan NTR Index",,"NYB",true
+"KSN=F","JPY/USD 12.5 - NYCC - Jun23",,"NYB",true
+"ZQN23.CBT","Thirty-Day Fed Fund Futures,Jul",,"CBT",true
+"MYMH23.CBT","Micro E-mini Dow Jones Industri",,"CBT",true
+"ZQF24.CBT","Thirty-Day Fed Fund Futures,Jan",,"CBT",true
+"JB-H23.SI","MINI JAP GOVT BOND FUTURES, Mar",,"SES",true
+"SB-ZN23.NYB","Sugar No. 11 TAS - NYCC - Jul23",,"NYB",true
+"JPPH23.NYB","MSCI Japan NTR Index Futures - ",,"NYB",true
+"CN-M23.SI","FTSE CHINA A50 INDEX FUTURE, Ju",,"SES",true
+"F*PLE.NYB","PLN/EUR - NYCC - Jun23",,"NYB",true
+"CC-ZN23.NYB","Cocoa TAS - NYCC - Jul23",,"NYB",true
+"RPM23.CME","Euro/British Pound Futures,Jun-",,"CME",true
+"F*KSN.NYB","JPY/USD 12.5 - NYCC - Jun23",,"NYB",true
+"MYMM23.CBT","Micro E-mini Dow Jones Industri",,"CBT",true
+"KC-ZN23.NYB","Coffee ""C"" TAS - NYCC - Jul23",,"NYB",true
+"F*MYM.CBT","Micro E-mini Dow Jones Industri",,"CBT",true
+"F*KEO.NYB","EUR/USD 125 - NYCC - Jun23",,"NYB",true
+"CBM23.CME","Cash-settled Butter Futures,Jun",,"CME",true
+"CBN23.CME","Cash-settled Butter Futures,Jul",,"CME",true
+"MCLN23.NYM","Micro WTI Crude Oil Futures,Jul",,"NYM",true
+"KSNH23.NYB","JPY/USD 12.5 - NYCC - Mar23",,"NYB",true
+"KXM23.NYB","USD/SEK - NYCC - Jun23",,"NYB",true
+"ZQM23.CBT","Thirty-Day Fed Fund Futures,Jun",,"CBT",true
+"ZQF25.CBT","Thirty-Day Fed Fund Futures,Jan",,"CBT",true
+"MCLM23.NYM","Micro WTI Crude Oil Futures,Jun",,"NYM",true
+"QGM23.NYM","E-mini Natural Gas Futures,Jun-",,"NYM",true
+"SFF24.NYB","Sugar No. 16 Futures - NYCC - J",,"NYB",true
+"F*KX.NYB","USD/SEK - NYCC - Jun23",,"NYB",true
+"CSCN23.CME","Cash-Settled Cheese Futures,Jul",,"CME",true
+"CSCM23.CME","Cash-Settled Cheese Futures,Jun",,"CME",true
+"F*NT.NYB","USD/NOK - NYCC - Jun23",,"NYB",true
+"QGF24.NYM","E-mini Natural Gas Futures,Jan-",,"NYM",true
+"MYMU23.CBT","Micro E-mini Dow Jones Industri",,"CBT",true
+"ZWTN23.CBT","Chicago SRW Wheat TAS Futures,J",,"CBT",true
+"ZQN24.CBT","Thirty-Day Fed Fund Futures,Jul",,"CBT",true
+"ZQM24.CBT","Thirty-Day Fed Fund Futures,Jun",,"CBT",true
+"ASIH23.NYB","MSCI AC Asia ex Japan NTR Index",,"NYB",true
+"F*KEJ.NYB","EUR/JPY 125 - NYCC - Jun23",,"NYB",true
+"QGN23.NYM","E-mini Natural Gas Futures,Jul-",,"NYM",true
+"F*JPP.NYB","MSCI Japan NTR Index Futures - ",,"NYB",true
+"KAUM23.NYB","AUD/USD 100 - NYCC - Jun23",,"NYB",true
+"VUM23.NYB","USD/HUF - NYCC - Jun23",,"NYB",true
+"HRM23.NYB","EUR/HUF - NYCC - Jun23",,"NYB",true
+"KRAM23.NYB","EUR/AUD 125 - NYCC - Jun23",,"NYB",true
+"KSVM23.NYB","CAD/USD 100 - NYCC - Jun23",,"NYB",true
+"PLEM23.NYB","PLN/EUR - NYCC - Jun23",,"NYB",true
+"MPM23.NYB","Sm GBP/USD - NYCC - Jun23",,"NYB",true
+"KOLM23.NYB","EUR/NOK 125 - NYCC - Jun23",,"NYB",true
+"6ZM23.CME","South African Rand Futures,Jun-",,"CME",true
+"RXM23.CBT","Dow Jones US Real Estate Index ",,"CBT",true
+"SFN23.NYB","Sugar No. 16 Futures - NYCC - J",,"NYB",true
+"DX-ZM23.NYB","US Dollar Index TAS - NYCC - Ju",,"NYB",true
+"KMPM23.NYB","MXN/USD - NYCC - Jun23",,"NYB",true
+"SSM23.NYB","GBP/CHF - NYCC - Jun23",,"NYB",true
+"ILSM23.NYB","ILS/USD - NYCC - Jun23",,"NYB",true
+"YZM23.NYB","EUR/ZAR - NYCC - Jun23",,"NYB",true
+"NTM23.NYB","USD/NOK - NYCC - Jun23",,"NYB",true
+"KSNM23.NYB","JPY/USD 12.5 - NYCC - Jun23",,"NYB",true
+"VCM23.NYB","USD/CZK - NYCC - Jun23",,"NYB",true
+"JB-M23.SI","MINI JAP GOVT BOND FUTURES, Jun",,"SES",true
+"SYM23.NYB","GBP/JPY - NYCC - Jun23",,"NYB",true
+"ZJM23.NYB","NZD/JPY - NYCC - Jun23",,"NYB",true
+"KMFM23.NYB","CHF/USD 125 - NYCC - Jun23",,"NYB",true
+"SFN24.NYB","Sugar No. 16 Futures - NYCC - J",,"NYB",true
+"NJM23.NYB","NOK/SEK - NYCC - Jun23",,"NYB",true
+"KEJM23.NYB","EUR/JPY 125 - NYCC - Jun23",,"NYB",true
+"KRKM23.NYB","EUR/SEK 125 - NYCC - Jun23",,"NYB",true
+"ARM23.NYB","AUD/NZD - NYCC - Jun23",,"NYB",true
+"PLNM23.NYB","PLN/USD - NYCC - Jun23",,"NYB",true
+"F*ASI.NYB","MSCI AC Asia ex Japan NTR Index",,"NYB",true
+"KEOM23.NYB","EUR/USD 125 - NYCC - Jun23",,"NYB",true
+"EZM23.NYB","EUR/CZK - NYCC - Jun23",,"NYB",true
+"ECDM23.CME","Euro/Canadian Dollar Futures,Ju",,"CME",true
+"CSCF24.CME","Cash-Settled Cheese Futures,Jan",,"CME",true
+"CU=F","Chicago Ethanol (Platts) Future",,"NYM",true
+"MNQ=F","Micro E-mini Nasdaq-100 Index F",,"CME",true
+"MME=F","MSCI Emerging Markets Index Fut",,"NYB",true
+"SXB=F","E-mini S&P Regional Banks Selec",,"CME",true
+"MFS=F","MSCI EAFE Index Futures - ICUS ",,"NYB",true
+"XAP=F","E-mini Consumer Staples Select ",,"CME",true
+"RSV=F","E-mini Russell 1000 Value Index",,"CME",true
+"GEO=F","CBL Global Emissions Offset Fut",,"NYM",true
+"QG=F","E-mini Natural Gas Futures,Apr-",,"NYM",true
+"ASN=F","MSCI EM Asia NTR Index Futures ",,"NYB",true
+"SXI=F","E-mini S&P Insurance Select Ind",,"CME",true
+"SXR=F","E-mini S&P Retail Select Indust",,"CME",true
+"MMM=F","MSCI Emerging Markets EMEA NTR ",,"NYB",true
+"SOX=F","E-mini PHLX Semiconductor Secto",,"CME",true
+"XAE=F","E-mini Energy Select Sector Fut",,"CME",true
+"XKT=F","BTIC on E-mini Technology Selec",,"CME",true
+"XAY=F","E-mini Consumer Discretionary S",,"CME",true
+"CGO=F","CBL Core Global Emissions Offse",,"NYM",true
+"BIO=F","E-mini Nasdaq Biotechnology Ind",,"CME",true
+"KOL=F","EUR/NOK 125 - NYCC - Mar23",,"NYB",true
+"NGO=F","CBL Nature-Based Global Emissio",,"NYM",true
+"RP=F","Euro/British Pound Futures,Mar-",,"CME",true
+"NQT=F","BTIC E-mini Nasdaq-100 Futures,",,"CME",true
+"EHR=F","North European Hot-Rolled Coil ",,"CMX",true
+"RS1=F","E-mini Russell 1000 Index Futur",,"CME",true
+"SXO=F","E-mini S&P Oil & Gas Exploratio",,"CME",true
+"XFT=F","BTIC on E-mini Financial Select",,"CME",true
+"XAZ=F","E-mini Communication Services S",,"CME",true
+"XAF=F","E-mini Financial Select Sector ",,"CME",true
+"LFW=F","MSCI World ESG Leaders NTR Inde",,"NYB",true
+"RSG=F","E-mini Russell 1000 Growth Inde",,"CME",true
+"ECD=F","Euro/Canadian Dollar Futures,Ma",,"CME",true
+"YZ=F","EUR/ZAR - NYCC - Mar23",,"NYB",true
+"XAK=F","E-mini Technology Select Sector",,"CME",true
+"XAR=F","E-mini Real Estate Select Secto",,"CME",true
+"XAV=F","E-mini Health Care Select Secto",,"CME",true
+"SXT=F","E-mini S&P Biotechnology Select",,"CME",true
+"ESR=F","EURO SHORT-TERM RATE (?STR) FUT",,"CME",true
+"R1T=F","BTIC on E-mini Russell 1000 Ind",,"CME",true
+"XPT=F","BTIC on E-mini Consumer Staples",,"CME",true
+"XAB=F","E-mini Materials Select Sector ",,"CME",true
+"KRK=F","EUR/SEK 125 - NYCC - Mar23",,"NYB",true
+"MMN=F","MSCI Emerging Markets NTR Index",,"NYB",true
+"EAD=F","Euro/Australian Dollar Futures,",,"CME",true
+"KRA=F","EUR/AUD 125 - NYCC - Mar23",,"NYB",true
+"XAI=F","E-mini Industrial Select Sector",,"CME",true
+"MML=F","MSCI EM Latin Amer NTR Index Fu",,"NYB",true
+"KRZ=F","EUR/CHF 125 - NYCC - Mar23",,"NYB",true
+"KGB=F","EUR/GBP 125 - NYCC - Mar23",,"NYB",true
+"EUS=F","EURO SHORT-TERM RATE (?STR) - T",,"CME",true
+"MNQH23.CME","Micro E-mini Nasdaq-100 Index F",,"CME",true
+"MNQM23.CME","Micro E-mini Nasdaq-100 Index F",,"CME",true
+"NQTH23.CME","BTIC E-mini Nasdaq-100 Futures,",,"CME",true
+"SXTH23.CME","E-mini S&P Biotechnology Select",,"CME",true
+"F*BIO.CME","E-mini Nasdaq Biotechnology Ind",,"CME",true
+"MNQZ23.CME","Micro E-mini Nasdaq-100 Index F",,"CME",true
+"LFWH23.NYB","MSCI World ESG Leaders NTR Inde",,"NYB",true
+"F*XAR.CME","E-mini Real Estate Select Secto",,"CME",true
+"F*AEP.CMX","Aluminium European Premium Duty",,"CMX",true
+"F*SOX.CME","E-mini PHLX Semiconductor Secto",,"CME",true
+"MMEH23.NYB","MSCI Emerging Markets Index Fut",,"NYB",true
+"F*XAY.CME","E-mini Consumer Discretionary S",,"CME",true
+"NGOZ23.NYM","CBL Nature-Based Global Emissio",,"NYM",true
+"XAVH23.CME","E-mini Health Care Select Secto",,"CME",true
+"ESRJ23.CME","EURO SHORT-TERM RATE (?STR) FUT",,"CME",true
+"ESRF23.CME","EURO SHORT-TERM RATE (?STR) FUT",,"CME",true
+"QGK23.NYM","E-mini Natural Gas Futures,May-",,"NYM",true
+"CGOZ23.NYM","CBL Core Global Emissions Offse",,"NYM",true
+"ESRU23.CME","EURO SHORT-TERM RATE (?STR) FUT",,"CME",true
+"XPTH23.CME","BTIC on E-mini Consumer Staples",,"CME",true
+"ESRZ22.CME","EURO SHORT-TERM RATE (?STR) FUT",,"CME",true
+"EUSZ23.CME","EURO SHORT-TERM RATE (?STR) - T",,"CME",true
+"F*MNQ.CME","Micro E-mini Nasdaq-100 Index F",,"CME",true
+"XAZH23.CME","E-mini Communication Services S",,"CME",true
+"MMEM23.NYB","MSCI Emerging Markets Index Fut",,"NYB",true
+"F*MME.NYB","MSCI Emerging Markets Index Fut",,"NYB",true
+"KRAH23.NYB","EUR/AUD 125 - NYCC - Mar23",,"NYB",true
+"ESRH23.CME","EURO SHORT-TERM RATE (?STR) FUT",,"CME",true
+"EUSU23.CME","EURO SHORT-TERM RATE (?STR) - T",,"CME",true
+"SF=F","Sugar No. 16 Futures - NYCC - S",,"NYB",true
+"KAU=F","AUD/USD 100 - NYCC - Mar23",,"NYB",true
+"KMF=F","CHF/USD 125 - NYCC - Mar23",,"NYB",true
+"KSV=F","CAD/USD 100 - NYCC - Mar23",,"NYB",true
+"VLQ=F","Nasdaq-100 Volatility Index Fut",,"CME",true
+"SB-ZK23.NYB","Sugar No. 11 TAS - NYCC - May23",,"NYB",true
+"KEJH23.NYB","EUR/JPY 125 - NYCC - Mar23",,"NYB",true
+"F*VLQ.CME","Nasdaq-100 Volatility Index Fut",,"CME",true
+"RSGH23.CME","E-mini Russell 1000 Growth Inde",,"CME",true
+"F*KRA.NYB","EUR/AUD 125 - NYCC - Mar23",,"NYB",true
+"F*NQT.CME","BTIC E-mini Nasdaq-100 Futures,",,"CME",true
+"KGBH23.NYB","EUR/GBP 125 - NYCC - Mar23",,"NYB",true
+"KEOH23.NYB","EUR/USD 125 - NYCC - Mar23",,"NYB",true
+"F*KAU.NYB","AUD/USD 100 - NYCC - Mar23",,"NYB",true
+"SFU23.NYB","Sugar No. 16 Futures - NYCC - S",,"NYB",true
+"F*SF.NYB","Sugar No. 16 Futures - NYCC - S",,"NYB",true
+"F*RSG.CME","E-mini Russell 1000 Growth Inde",,"CME",true
+"F*RSV.CME","E-mini Russell 1000 Value Index",,"CME",true
+"SB-ZV23.NYB","Sugar No. 11 TAS - NYCC - Oct23",,"NYB",true
+"SB-ZH24.NYB","Sugar No. 11 TAS - NYCC - Mar24",,"NYB",true
+"KRZH23.NYB","EUR/CHF 125 - NYCC - Mar23",,"NYB",true
+"F*KOL.NYB","EUR/NOK 125 - NYCC - Mar23",,"NYB",true
+"SFH24.NYB","Sugar No. 16 Futures - NYCC - M",,"NYB",true
+"RSVH23.CME","E-mini Russell 1000 Value Index",,"CME",true
+"MNQU23.CME","Micro E-mini Nasdaq-100 Index F",,"CME",true
+"F*R1T.CME","BTIC on E-mini Russell 1000 Ind",,"CME",true
+"F*KGB.NYB","EUR/GBP 125 - NYCC - Mar23",,"NYB",true
+"F*KRK.NYB","EUR/SEK 125 - NYCC - Mar23",,"NYB",true
+"F*KSV.NYB","CAD/USD 100 - NYCC - Mar23",,"NYB",true
+"F*KRZ.NYB","EUR/CHF 125 - NYCC - Mar23",,"NYB",true
+"SFK23.NYB","Sugar No. 16 Futures - NYCC - M",,"NYB",true
+"VLQH23.CME","Nasdaq-100 Volatility Index Fut",,"CME",true
+"F*RS1.CME","E-mini Russell 1000 Index Futur",,"CME",true
+"KSVH23.NYB","CAD/USD 100 - NYCC - Mar23",,"NYB",true
+"KOLH23.NYB","EUR/NOK 125 - NYCC - Mar23",,"NYB",true
+"R1TH23.CME","BTIC on E-mini Russell 1000 Ind",,"CME",true
+"KRKH23.NYB","EUR/SEK 125 - NYCC - Mar23",,"NYB",true
+"RSVM23.CME","E-mini Russell 1000 Value Index",,"CME",true
+"SFK24.NYB","Sugar No. 16 Futures - NYCC - M",,"NYB",true
+"RS1M23.CME","E-mini Russell 1000 Index Futur",,"CME",true
+"KAUH23.NYB","AUD/USD 100 - NYCC - Mar23",,"NYB",true
+"F*KMF.NYB","CHF/USD 125 - NYCC - Mar23",,"NYB",true
+"NQTM23.CME","BTIC E-mini Nasdaq-100 Futures,",,"CME",true
+"RS1H23.CME","E-mini Russell 1000 Index Futur",,"CME",true
+"RSGM23.CME","E-mini Russell 1000 Growth Inde",,"CME",true
+"KMFH23.NYB","CHF/USD 125 - NYCC - Mar23",,"NYB",true
+"MCL=F","Micro WTI Crude Oil Futures,Apr",,"NYM",true
+"HTT=F","WTI Houston (Argus) vs. WTI Tra",,"NYM",true
+"ZWT=F","Chicago SRW Wheat TAS Futures,S",,"CBT",true
+"MWS=F","MSCI World NTR Index Futures - ",,"NYB",true
+"XW=F","Mini-sized Chicago SRW Wheat Fu",,"CBT",true
+"WTT=F","WTI Midland (Argus) vs. WTI Tra",,"NYM",true
+"F*WTT.NYM","WTI Midland (Argus) vs. WTI Tra",,"NYM",true
+"ZWTZ23.CBT","Chicago SRW Wheat TAS Futures,D",,"CBT",true
+"MWSH23.NYB","MSCI World NTR Index Futures - ",,"NYB",true
+"MCLJ23.NYM","Micro WTI Crude Oil Futures,Apr",,"NYM",true
+"MCLZ23.NYM","Micro WTI Crude Oil Futures,Dec",,"NYM",true
+"F*LFW.NYB","MSCI World ESG Leaders NTR Inde",,"NYB",true
+"ZWTK23.CBT","Chicago SRW Wheat TAS Futures,M",,"CBT",true
+"MCLH24.NYM","Micro WTI Crude Oil Futures,Mar",,"NYM",true
+"WTTK23.NYM","WTI Midland (Argus) vs. WTI Tra",,"NYM",true
+"ZWTU23.CBT","Chicago SRW Wheat TAS Futures,S",,"CBT",true
+"F*MWS.NYB","MSCI World NTR Index Futures - ",,"NYB",true
+"XWN24.CBT","Mini-sized Chicago SRW Wheat Fu",,"CBT",true
+"F*XW.CBT","Mini-sized Chicago SRW Wheat Fu",,"CBT",true
+"MCLX23.NYM","Micro WTI Crude Oil Futures,Nov",,"NYM",true
+"WTTM23.NYM","WTI Midland (Argus) vs. WTI Tra",,"NYM",true
+"MCLU23.NYM","Micro WTI Crude Oil Futures,Sep",,"NYM",true
+"MCLV23.NYM","Micro WTI Crude Oil Futures,Oct",,"NYM",true
+"XWK23.CBT","Mini-sized Chicago SRW Wheat Fu",,"CBT",true
+"XWZ23.CBT","Mini-sized Chicago SRW Wheat Fu",,"CBT",true
+"XWN23.CBT","Mini-sized Chicago SRW Wheat Fu",,"CBT",true
+"XWU23.CBT","Mini-sized Chicago SRW Wheat Fu",,"CBT",true
+"F*ZWT.CBT","Chicago SRW Wheat TAS Futures,S",,"CBT",true
+"MCLQ23.NYM","Micro WTI Crude Oil Futures,Aug",,"NYM",true
+"MCLK23.NYM","Micro WTI Crude Oil Futures,May",,"NYM",true
+"HTTM23.NYM","WTI Houston (Argus) vs. WTI Tra",,"NYM",true
+"XWH24.CBT","Mini-sized Chicago SRW Wheat Fu",,"CBT",true
+"MCLG24.NYM","Micro WTI Crude Oil Futures,Feb",,"NYM",true
+"HTTK23.NYM","WTI Houston (Argus) vs. WTI Tra",,"NYM",true
+"F*HTT.NYM","WTI Houston (Argus) vs. WTI Tra",,"NYM",true
+"F*MCL.NYM","Micro WTI Crude Oil Futures,Apr",,"NYM",true
+"BZ=F","Brent Crude Oil Last Day Financ",,"NYM",true
+"TTF=F","Dutch TTF Natural Gas Calendar ",,"NYM",true
+"AW=F","Bloomberg Commodity Index Futur",,"CBT",true
+"GD=F","S&P-GSCI Commodity Index Future",,"CME",true
+"CHH=F","MSCI China NTR Future - ICUS - ",,"NYB",true
+"CB=F","Cash-settled Butter Futures,May",,"CME",true
+"BZT=F","Brent Crude Oil Last Day Future",,"NYM",true
+"TIE=F","Mexican Funding TIIE (Monthly C",,"CME",true
+"CSC=F","Cash-Settled Cheese Futures,Apr",,"CME",true
+"SGC=F","Shanghai Gold (CNH) Futures,Apr",,"CMX",true
+"BZK23.NYM","Brent Crude Oil Last Day Financ",,"NYM",true
+"CSCH23.CME","Cash-Settled Cheese Futures,Mar",,"CME",true
+"TTFJ23.NYM","Dutch TTF Natural Gas Calendar ",,"NYM",true
+"CBX23.CME","Cash-settled Butter Futures,Nov",,"CME",true
+"BZZ24.NYM","Brent Crude Oil Last Day Financ",,"NYM",true
+"BZU23.NYM","Brent Crude Oil Last Day Financ",,"NYM",true
+"F*XFT.CME","BTIC on E-mini Financial Select",,"CME",true
+"GEOZ23.NYM","CBL Global Emissions Offset Fut",,"NYM",true
+"ZQV24.CBT","Thirty-Day Fed Fund Futures,Oct",,"CBT",true
+"BZTM23.NYM","Brent Crude Oil Last Day Future",,"NYM",true
+"BZTK23.NYM","Brent Crude Oil Last Day Future",,"NYM",true
+"NGT=F","Henry Hub Natural Gas (Physical",,"NYM",true
+"HH=F","Henry Hub Natural Gas Look-Alik",,"NYM",true
+"HP=F","Henry Hub Natural Gas Look-Alik",,"NYM",true
+"SY=F","GBP/JPY - NYCC - Mar23",,"NYB",true
+"MP=F","Sm GBP/USD - NYCC - Mar23",,"NYB",true
+"F*SY.NYB","GBP/JPY - NYCC - Mar23",,"NYB",true
+"NGTJ23.NYM","Henry Hub Natural Gas (Physical",,"NYM",true
+"NGTQ23.NYM","Henry Hub Natural Gas (Physical",,"NYM",true
+"HHM23.NYM","Henry Hub Natural Gas Look-Alik",,"NYM",true
+"QGJ23.NYM","E-mini Natural Gas Futures,Apr-",,"NYM",true
+"QGZ25.NYM","E-mini Natural Gas Futures,Dec-",,"NYM",true
+"NGTN23.NYM","Henry Hub Natural Gas (Physical",,"NYM",true
+"HHJ23.NYM","Henry Hub Natural Gas Look-Alik",,"NYM",true
+"NGTF24.NYM","Henry Hub Natural Gas (Physical",,"NYM",true
+"QGK24.NYM","E-mini Natural Gas Futures,May-",,"NYM",true
+"KMP=F","MXN/USD - NYCC - Mar23",,"NYB",true
+"NJ=F","NOK/SEK - NYCC - Mar23",,"NYB",true
+"MIN=F","MSCI India NTR Index Futures - ",,"NYB",true
+"ZJ=F","NZD/JPY - NYCC - Mar23",,"NYB",true
+"OJ-ZK23.NYB","FCOJ-A TAS - NYCC - May23",,"NYB",true
+"ZQX23.CBT","Thirty-Day Fed Fund Futures,Nov",,"CBT",true
+"F*MMM.NYB","MSCI Emerging Markets EMEA NTR ",,"NYB",true
+"MMNH23.NYB","MSCI Emerging Markets NTR Index",,"NYB",true
+"ZQ=F","Thirty-Day Fed Fund Futures,Aug",,"CBT",true
+"ACD=F","Australian Dollar/Canadian Doll",,"CME",true
+"ZQH23.CBT","Thirty-Day Fed Fund Futures,Mar",,"CBT",true
+"ZQJ23.CBT","Thirty-Day Fed Fund Futures,Apr",,"CBT",true
+"ZQK24.CBT","Thirty-Day Fed Fund Futures,May",,"CBT",true
+"ZQZ23.CBT","Thirty-Day Fed Fund Futures,Dec",,"CBT",true
+"ZQG24.CBT","Thirty-Day Fed Fund Futures,Feb",,"CBT",true
+"F*ZQ.CBT","Thirty-Day Fed Fund Futures,Aug",,"CBT",true
+"CSCZ23.CME","Cash-Settled Cheese Futures,Dec",,"CME",true
+"ZQQ23.CBT","Thirty-Day Fed Fund Futures,Aug",,"CBT",true
+"ZQJ24.CBT","Thirty-Day Fed Fund Futures,Apr",,"CBT",true
+"ZQU23.CBT","Thirty-Day Fed Fund Futures,Sep",,"CBT",true
+"6Z=F","South African Rand Futures,Mar-",,"CME",true
+"CSCQ23.CME","Cash-Settled Cheese Futures,Aug",,"CME",true
+"FNG=F","Micro FANG+ Index Futures - ICU",,"NYB",true
+"CBK23.CME","Cash-settled Butter Futures,May",,"CME",true
+"CSCJ23.CME","Cash-Settled Cheese Futures,Apr",,"CME",true
+"FCH-H23.SI","SGX FTSE China H50 Index Future",,"SES",true
+"F*AW.CBT","Bloomberg Commodity Index Futur",,"CBT",true
+"AWH23.CBT","Bloomberg Commodity Index Futur",,"CBT",true
+"CUK23.NYM","Chicago Ethanol (Platts) Future",,"NYM",true
+"ESRM23.CME","EURO SHORT-TERM RATE (?STR) FUT",,"CME",true
+"SGP-H23.SI","MSCI Singapore Index Futures, M",,"SES",true
+"EUSJ23.CME","EURO SHORT-TERM RATE (?STR) - T",,"CME",true
+"BSB=F","Three-Month Bloomberg Short-Ter",,"CME",true
