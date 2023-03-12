@@ -193,6 +193,9 @@ def main(
     if isinstance(types, str):
         types = [types]
 
+    else:
+        types = types.split(",")
+
     for type_ in types:
 
         results = download(

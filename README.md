@@ -12,7 +12,7 @@ pip install git+https://github.com/legout/yahoo-symbols.git
 ## Usage Example
 
 ```
-python download.py --max-query-length=3 --type=equity,etf --output=./database --output-type=csv
+python -m yahoo_symbols.download --max-combination-length=3 --type=equity,etf --output=./database --output-type=parquet
 ``` 
 
 ## Options
