@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "yahoo-symbols"
-version = "0.1.0"
+version = "0.1.1"
 description = "Downloads (nearly) every symbol available on finance.yahoo"
 authors = ["legout <ligno.blades@gmail.com>"]
 readme = "README.md"
@@ -11,6 +11,7 @@ python = "^3.11"
 pandas = "^1.5.3"
 typer = "^0.7.0"
 yfin = { git = "https://github.com/legout/yfin.git" }
+rich = "^13.3.2"
 
 
 [build-system]
