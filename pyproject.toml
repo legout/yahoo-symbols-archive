@@ -8,11 +8,11 @@ packages = [{ include = "yahoo_symbols" }]
 
 [tool.poetry.dependencies]
 python = "^3.11"
-pandas = "^1.5.3"
+pandas = "^2.0.1"
 typer = "^0.7.0"
 yfin = { git = "https://github.com/legout/yfin.git" }
-rich = "^13.3.2"
-pyarrow = "^11.0.0"
+rich = "^13.3.5"
+pyarrow = "^12.0.0"
 
 
 [build-system]

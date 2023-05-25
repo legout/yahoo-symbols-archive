@@ -197,7 +197,6 @@ def main(
         types = types.split(",")
 
     for type_ in types:
-
         results = download(
             max_combination_length=max_combination_length,
             type_=type_,
